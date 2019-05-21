@@ -1,0 +1,603 @@
+<resources>
+
+        <string name="number_check"> numberCheck</string>
+        <string name="payment_method_number">payment method number</string>
+        <string name="number_check_simpl">numberCheck</string>
+        <string name="money">money</string>
+        <string name="wrong">Something went wrong</string>
+        <string name="havent_picked">You haven\'t picked Image</string>
+        <string name="txt_suc_updated">Data successfully updated</string>
+        <string name="txt_not_correct">Data is not correct</string>
+        <string name="txt_failed_to_up">Failed to update data</string>
+        <string name="txt_error_colon">Error: </string>
+        <string name="txt_mail_cash">Mail▼</string>
+        <string name="txt_card_check">Card   ▼</string>
+        <string name="txt_cash">Cash▼</string>
+        <string name="confirm_email">Confirm email</string>
+        <string name="enter_email">Enter email</string>
+        <string name="st_check">check</string>
+
+
+
+
+
+        <string name="app_name">Сrypto exchange</string>
+        <string name="text_accounts">All Accounts</string>
+        <string name="hint_name">Name</string>
+        <string name="hint_email">Email</string>
+        <string name="hint_password">Password</string>
+        <string name="hint_confirm_password">Confirm Password</string>
+        <string name="text_login">Log in</string>
+        <string name="text_register">Register</string>
+        <string name="text_register_now">register now</string>
+        <string name="error_message_name">Enter Full Name</string>
+        <string name="error_message_email">Enter Valid Email</string>
+        <string name="error_message_age">Enter Age</string>
+        <string name="error_message_password">Enter Password</string>
+        <string name="success_message">Registration Successful</string>
+        <string name="text_not_member">No account yet? Create one</string>
+        <string name="text_forget_pass">Forget your password</string>
+        <string name="text_already_member">Already a member? Login</string>
+        <string name="error_email_exists">Email Already Exists</string>
+        <string name="error_password_match">Password Does Not Matches</string>
+        <string name="error_valid_email_password">Wrong Email or Password</string>
+        <string name="action_settings">Settings</string>
+        <string name="text_hello">Hello,</string>
+        <string name="text_title">Android Tutorials Hub</string>
+        // Facebook string
+        <string name="txt_sing_in_button_fb">Log in with Facebook</string>
+        <string name="txt_sing_in_button_gl">Log in with Google</string>
+        <string name="facebook_app_id">254254145136988</string>
+        // Google string
+        <string name="def_web_client_id">241849527754-ek7hlcor9b9vcidmmvbdp0egnbp47avv.apps.googleusercontent.com</string>
+        <string name="title_activity_setting">SettingActivity</string>
+        // name menu
+        <string name="logout">Exit</string>
+        <string name="setting">Settings</string>
+        <string name="convertString">Converter</string>
+        <string name="map_st">Map</string>
+        <string name="schedule_st">Schedule</string>
+        <string name="txt_course">Course</string>
+        <string name="def_string"></string>
+        <string name="def_string_one_space">  </string>
+        <string name="some_data">Incorrect data</string>
+        <string name="set_data">Enter the data</string>
+        <string name="txt_currencies">CURRENCIES</string>
+        //ipstack.com
+        <string name="api_access_key_ipstack">5ec357e82d495fe23b1aa37160ed3fa0</string>
+        <string name="def_ip">109.254.254.81</string>
+        <string name="def_currency">UAH</string>
+
+
+        <string name="exit_string">Exit: are you sure?</string>
+        <string name="yes_string">Yes!</string>
+        <string name="no_string">No</string>
+
+
+        // ActivitySend
+        <string name="text_contact"> Email us if you have any recommendations or questions. Our staff will respond to your message.</string>
+        <string name="txt_add_text">Enter your text…</string>
+        <string name="email_address2">annaangl.eng@gmail.com</string>
+        <string name="str_contact">Contact us</string>
+
+        <string name="money_string">money</string>
+        <string name="wait_string">Please waiting…</string>
+        <string name="btc_string">BTC</string>
+        <string name="etc_string">ETC</string>
+        <string name="xrp_string">XRP</string>
+        <string name="aur_string">AUR</string>
+        <string name="dash_string">DASH</string>
+        <string name="maid_string">MAID</string>
+        <string name="ltc_string">LTC</string>
+        <string name="xmr_string">XMR</string>
+        <string name="xem_string">XEM</string>
+        <string name="usd_string">USD</string>
+        <string name="eur_string">EUR</string>
+        <string name="gbp_string">GBP</string>
+        <string name="eth_string">ETH</string>
+
+        <string name="usd_text_icon">$ </string>
+        <string name="gbp_text_icon">£ </string>
+        <string name="eur_text_icon">€ </string>
+
+        <!--    Permissions    -->
+        <string name="permission_required_toast">Location permission is required for this demo.</string>
+        <string name="location_permission_denied">This sample requires location permission to enable the \'my location\' layer. Please try again and grant access to use the location.\nIf the permission has been permanently denied, it can be enabled from the System Settings &gt; Apps &gt; \'Google Maps API Demos\'.</string>
+        <string name="permission_rationale_location">Access to the location service is required to demonstrate the \'my location\' feature, which shows your current location on the map.</string>
+        <string name="search_for_a_location">Search for a location</string>
+        <string name="def_number">74957777777</string>
+        <string name="from_to_string">FROM/TO</string>
+        <string name="def_string_for_address">specify address</string>
+        <string name="st_additional_information">Additional Information</string>
+        <string name="st_payment_methods">Payment Methods</string>
+        <string name="txt_create">Create</string>
+        <string name="txt_business_hours">Working hours:</string>
+        <string name="txt_to"> To </string>
+        <string name="txt_time_default_morning">9:00</string>
+        <string name="txt_time_default_evening">6:00PM</string>
+        <string name="txt_currency">Currencies</string>
+        <string name="txt_currency_setting">Currency.</string>
+        <string name="txt_about_currency_exchange">About currency exchange</string>
+        <string name="txt_specify_description">Specify a description</string>
+        <string name="txt_the_minimum_amount">minimum amount</string>
+        <string name="txt_the_payment_method">payment method</string>
+        <string name="txt_the_phone_number">Number</string>
+        <string name="txt_def_site">site.ru</string>
+        <string name="txt_site">Site</string>
+        <string name="txt_inf_exch_point">Exchange Point Information</string>
+        <string name="txt_days_of_work">Work days Since </string>
+        <string name="txt_days_of_work_from">           To </string>
+        <string name="txt_default_price">650 rub.</string>
+        <string name="txt_to_change">Change</string>
+        <string name="txt_select_image">SELECT IMAGE</string>
+        <string name="txt_address">Address</string>
+        <string name="txt_from"> Since </string>
+        <string name="required_field">All fields must be filled.</string>
+        <string name="the_number">The field must be a number.</string>
+        <string name="txt_field">Field \'</string>
+        <string name="txt_empty">\' blank or specified is not true. </string>
+        <string name="txt_am">AM</string>
+        <string name="txt_pm">PM</string>
+        <string name="txt_caps_email">EMAIL</string>
+        <string name="colon">:</string>
+        <string name="txt_dot">.</string>
+        <string name="txt_comma">,</string>
+        <string name="txt_right_square_brackets">]</string>
+        <string name="txt_left_square_brackets">[</string>
+        <string name="txt_map_file">map.txt</string>
+        <string name="txt_latitude">mLatitude</string>
+        <string name="txt_longitude">mLongitude</string>
+        <string name="txt_plz_wait">Please waiting…</string>
+        <string name="txt_authentication_error">Ошибка аутентификации.</string>
+        <string name="txt_got_error">You got an error</string>
+        <string name="txt_cancer_fb">Cancel Sign FB</string>
+        <string name="txt_error">Error</string>
+        <string name="txt_login_activity">LoginActivity</string>
+        <string name="txt_face_exception">FacebookException: </string>
+        <string name="txt_inv_number">Invalid number</string>
+        <string name="txt_fields">fields</string>
+        <string name="txt_login">Log in</string>
+        <string name="txt_sign">Sign in</string>
+        <string name="txt_email">email</string>
+        <string name="txt_first_name">first_name</string>
+        <string name="txt_some_fields">id,email,first_name,last_name,gender</string>
+        <string name="txt_format_data">MM/dd/yyyy HH:mm:ss</string>
+        <string name="txt_unique_id">stUniqueID</string>
+        <string name="txt_down_arrow"> ▼</string>
+        <string name="txt_invalid_value">Specified is not a valid value radio buttons</string>
+        <string name="txt_number_check">numberCheck</string>
+        <string name="txt_is_first_button">isFirstButton</string>
+        <string name="txt_you_selected">You selected: </string>
+        <string name="txt_crypto_currency_names">crypto_currency_names</string>
+        <string name="txt_currency_is_not">currency is not specified</string>
+        <string name="txt_def_id_user">r7rf4fank9ty7ebbadse</string>
+
+
+        <string name="txt_def_currency">Set the default currency.</string>
+        <string name="txt_for_auth">Already a member? Log in</string>
+        <string name="txt_show_location">Specify the location of the exchange point on the map.</string>
+
+        <string name="navigation_drawer_open">Open navigation drawer</string>
+        <string name="navigation_drawer_close">Close navigation drawer</string>
+        <string name="txt_search_location">Search</string>
+        <string name="txt_communicate">Communicate</string>
+        <string name="txt_share">Share</string>
+        <string name="txt_send">Send</string>
+
+        <!-- Order is important here: -->
+        <string-array name="crypto_currency_names">
+            <item>BTC</item>
+            <item>ETH</item>
+            <item>ETC</item>
+            <item>XRP</item>
+            <item>LTC</item>
+            <item>XMR</item>
+            <item>DASH</item>
+            <item>MAID</item>
+            <item>AUR</item>
+            <item>XEM</item>
+        </string-array>
+        <string-array name="currency_names">
+            <!--<item>USD</item>-->
+            <!--<item>EUR</item>-->
+            <!--<item>GBP</item>-->
+            <item>USD</item>
+            <item>USDT</item>
+            <item>EUR</item>
+            <item>GBP</item>
+            <item>JPY</item>
+            <item>CNY</item>
+            <item>RUB</item>
+            <item>AUD</item>
+            <item>CAD</item>
+            <item>PLN</item>
+            <item>SGD</item>
+            <item>HKD</item>
+            <item>CHF</item>
+            <item>INR</item>
+            <item>BRL</item>
+            <item>ZAR</item>
+            <item>ETH</item>
+            <item>LTC</item>
+            <item>KRW</item>
+            <item>NZD</item>
+            <item>TRY</item>
+            <item>BITUSD</item>
+            <item>VND</item>
+            <item>BITCNY</item>
+            <item>SEK</item>
+            <item>THB</item>
+            <item>USDC</item>
+            <item>ILS</item>
+            <item>PHP</item>
+            <item>UAH</item>
+            <item>IDR</item>
+            <item>CZK</item>
+            <item>MXN</item>
+            <item>DKK</item>
+            <item>CLP</item>
+            <item>RUR</item>
+            <item>MYR</item>
+            <item>NGN</item>
+            <item>XRP</item>
+            <item>HUF</item>
+            <item>MUR</item>
+            <item>RON</item>
+            <item>ARS</item>
+            <item>BGN</item>
+            <item>QC</item>
+            <item>KHR</item>
+            <item>DASH</item>
+            <item>PEN</item>
+            <item>TZS</item>
+            <item>NPR</item>
+            <item>PKR</item>
+            <item>BHD</item>
+            <item>TUSD</item>
+            <item>DAI</item>
+            <item>NOK</item>
+            <item>UGX</item>
+            <item>COP</item>
+            <item>GHS</item>
+            <item>AED</item>
+            <item>IRR</item>
+            <item>HRK</item>
+            <item>CNH</item>
+            <item>DOGE</item>
+            <item>VEF</item>
+            <item>CRC</item>
+            <item>KES</item>
+            <item>CNET</item>
+            <item>CUC</item>
+            <item>BYN</item>
+            <item>GEL</item>
+            <item>XAF</item>
+            <item>GTQ</item>
+            <item>CDF</item>
+            <item>KZT</item>
+            <item>BTS</item>
+            <item>UZS</item>
+            <item>LKR</item>
+            <item>BWP</item>
+            <item>LSL</item>
+            <item>MMK</item>
+            <item>SAR</item>
+            <item>BITGOLD</item>
+            <item>BITEUR</item>
+            <item>B2X</item>
+            <item>MZN</item>
+            <item>QAR</item>
+            <item>JMD</item>
+            <item>EURS</item>
+            <item>RWF</item>
+            <item>XOF</item>
+            <item>SZL</item>
+            <item>AMP</item>
+            <item>BOB</item>
+            <item>KCS</item>
+            <item>DZD</item>
+            <item>XAG</item>
+            <item>BND</item>
+            <item>PAX</item>
+            <item>AIC*</item>
+            <item>KGS</item>
+            <item>EOS</item>
+            <item>BIF</item>
+            <item>AOA</item>
+            <item>AZN</item>
+            <item>LBP</item>
+            <item>PGK</item>
+            <item>MWK</item>
+            <item>HIKEN</item>
+            <item>XJP</item>
+            <item>UYU</item>
+            <item>KWD</item>
+            <item>BCY</item>
+            <item>XAR</item>
+            <item>XAU</item>
+            <item>GIP</item>
+            <item>ZEC</item>
+            <item>MGA</item>
+            <item>TTD</item>
+            <item>AFN</item>
+            <item>RSD</item>
+            <item>BLOCKPAY</item>
+            <item>JOD</item>
+            <item>LKK</item>
+            <item>AGRS</item>
+            <item>GGP</item>
+            <item>GOLD</item>
+            <item>VUV</item>
+            <item>ETB</item>
+            <item>TWD</item>
+            <item>BCH</item>
+            <item>BNB</item>
+            <item>PAI*</item>
+            <item>WAVES</item>
+            <item>MDL</item>
+            <item>IQD</item>
+            <item>VES</item>
+            <item>ISK</item>
+            <item>ZMW</item>
+            <item>ALL</item>
+            <item>NZDT</item>
+            <item>BDT</item>
+            <item>NAD</item>
+            <item>BYR</item>
+            <item>MAD</item>
+            <item>PAB</item>
+            <item>LKK1Y</item>
+            <item>WTRY</item>
+            <item>DKKT</item>
+            <item>AMD</item>
+            <item>WEUR</item>
+            <item>OMR</item>
+            <item>BAM</item>
+            <item>PYG</item>
+            <item>GUSD</item>
+            <item>TND</item>
+            <item>EGP</item>
+            <item>XMR</item>
+            <item>ARDR</item>
+            <item>KNC</item>
+            <item>ATB</item>
+            <item>HNL</item>
+            <item>MOP</item>
+            <item>WUSD</item>
+            <item>DOP</item>
+        </string-array>
+
+
+        <string-array name="days_of_the_week_names">
+            <item>Mon</item>
+            <item>Tues</item>
+            <item>Wed</item>
+            <item>Thr</item>
+            <item>Fri</item>
+            <item>Sat</item>
+            <item>Sun</item>
+        </string-array>
+
+        <string-array name="daytime_names">
+            <item>1AM</item>
+            <item>2AM</item>
+            <item>3AM</item>
+            <item>4AM</item>
+            <item>5AM</item>
+            <item>6AM</item>
+            <item>7AM</item>
+            <item>8AM</item>
+            <item>9AM</item>
+            <item>10AM</item>
+            <item>11AM</item>
+            <item>12AM</item>
+        </string-array>
+
+        <string-array name="payment_method_names">
+            <item>Card</item>
+            <item>Mail</item>
+            <item>Cash</item>
+
+        </string-array>
+        <string-array name="filter">
+            <item>All points</item>
+            <item>Points near</item>
+        </string-array>
+
+        <string-array name="night_time_names">
+            <item>1PM</item>
+            <item>2PM</item>
+            <item>3PM</item>
+            <item>4PM</item>
+            <item>5PM</item>
+            <item>6PM</item>
+            <item>7PM</item>
+            <item>8PM</item>
+            <item>9PM</item>
+            <item>10PM</item>
+            <item>11PM</item>
+            <item>12PM</item>
+        </string-array>
+
+        <string-array name="ic_currency">
+            <item>@mipmap/ic_btc</item>
+            <item>@mipmap/ic_eth</item>
+            <item>@mipmap/ic_etc</item>
+            <item>@mipmap/ic_xrp</item>
+            <item>@mipmap/ic_ltc</item>
+            <item>@mipmap/ic_xmr</item>
+            <item>@mipmap/ic_dash</item>
+            <item>@mipmap/ic_maid</item>
+            <item>@mipmap/ic_aur</item>
+            <item>@mipmap/ic_xem</item>
+        </string-array>
+        <string-array name="ic_currency_normal">
+            <item>@mipmap/usd</item>
+            <item>@mipmap/eur</item>
+            <item>@mipmap/gbp</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+            <item>@mipmap/ic_money_dr</item>
+        </string-array>
+        <string name="title_activity_main3">Main3Activity</string>
+    
+</resources>

@@ -1,0 +1,19 @@
+#Internal package file, do not edit.
+#Tue May 21 12:57:22 MSK 2019
+1.base=C\:\\Users\\Rikmen\\StudioProjects\\25.07.2018\\appforyou\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+2.path=schedule.html
+0.baseType=DIRECTORY
+3.baseType=DIRECTORY
+2.base=C\:\\Users\\Rikmen\\StudioProjects\\25.07.2018\\appforyou\\app\\build\\intermediates\\assets\\debug
+3.set=DEX
+2.set=ASSET
+1.baseType=DIRECTORY
+3.path=classes2.dex
+count=4
+1.set=DEX
+0.path=classes.dex
+3.base=C\:\\Users\\Rikmen\\StudioProjects\\25.07.2018\\appforyou\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+0.set=DEX
+0.base=C\:\\Users\\Rikmen\\StudioProjects\\25.07.2018\\appforyou\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+2.baseType=DIRECTORY
+1.path=classes.dex

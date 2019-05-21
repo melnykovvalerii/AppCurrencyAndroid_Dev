@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "241849527754",
+    "firebase_url": "https://allerates-205613.firebaseio.com",
+    "project_id": "allerates-205613",
+    "storage_bucket": "allerates-205613.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241849527754:android:a6a4cc7b3bafd269",
+        "android_client_info": {
+          "package_name": "com.allerates.appforyou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241849527754-hsh6i0sjr7c5l8ls23hj2jivbrcdirul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.allerates.appforyou",
+            "certificate_hash": "a6d9ceb19ea9242c2bbcce6ece186d147e26ace8"
+          }
+        },
+        {
+          "client_id": "241849527754-2pj425mielejnd9q25qvj3n80ph5maqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvZmfZ9XNs4xghPW5J-0LdpNSPm017eqI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241849527754-2pj425mielejnd9q25qvj3n80ph5maqg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "241849527754-olllsogg6nu8oaaikl9ev2bgdnohurd9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.allerates.appforyou.com"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

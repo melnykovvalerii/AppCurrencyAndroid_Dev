@@ -1,0 +1,248 @@
+<resources>
+    <string name="app_name">Сrypto exchange</string>
+    <string name="text_accounts">All Accounts</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="text_login">Log in</string>
+    <string name="text_register">Register</string>
+    <string name="text_register_now">register now</string>
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_message_age">Enter Age</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="text_not_member">No account yet? Create one</string>
+    <string name="text_already_member">Already a member? Login</string>
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="error_password_match">Password Does Not Matches</string>
+    <string name="error_valid_email_password">Wrong Email or Password</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_hello">Hello,</string>
+    <string name="text_title">Android Tutorials Hub</string>
+    // Facebook string
+    <string name="txt_sing_in_button_fb">Log in with Facebook</string>
+    <string name="txt_sing_in_button_gl">Log in with Google</string>
+    <string name="facebook_app_id">254254145136988</string>
+    // Google string
+    <string name="def_web_client_id">241849527754-ek7hlcor9b9vcidmmvbdp0egnbp47avv.apps.googleusercontent.com</string>
+    <string name="title_activity_setting">SettingActivity</string>
+    // name menu
+    <string name="logout">Выйти</string>
+    <string name="setting">Настройки</string>
+    <string name="convertString">Конвертер</string>
+    <string name="map_st">Карта</string>
+    <string name="map_set_st">Курсор TEST</string>
+    <string name="txt_course">Курс</string>
+    <string name="def_string"></string>
+    <string name="def_string_one_space">  </string>
+    <string name="some_data">Некорректные данные</string>
+    <string name="set_data">Укажите данные</string>
+    <string name="txt_currencies">CURRENCIES</string>
+    //ipstack.com
+    <string name="api_access_key_ipstack">5ec357e82d495fe23b1aa37160ed3fa0</string>
+    <string name="def_ip">109.254.254.81</string>
+    <string name="def_currency">109.254.254.81</string>
+
+
+    <string name="exit_string">Выход: вы уверены?</string>
+    <string name="yes_string">Да!</string>
+    <string name="no_string">Нет</string>
+
+    <string name="money_string">money</string>
+    <string name="wait_string">Please waiting…</string>
+    <string name="btc_string">BTC</string>
+    <string name="etc_string">ETC</string>
+    <string name="xrp_string">XRP</string>
+    <string name="aur_string">AUR</string>
+    <string name="dash_string">DASH</string>
+    <string name="maid_string">MAID</string>
+    <string name="ltc_string">LTC</string>
+    <string name="xmr_string">XMR</string>
+    <string name="xem_string">XEM</string>
+    <string name="usd_string">USD</string>
+    <string name="eur_string">EUR</string>
+    <string name="gbp_string">GBP</string>
+    <string name="eth_string">ETH</string>
+
+    <string name="usd_text_icon">$ </string>
+    <string name="gbp_text_icon">£ </string>
+    <string name="eur_text_icon">€ </string>
+
+    <!--    Permissions    -->
+    <string name="permission_required_toast">Location permission is required for this demo.</string>
+    <string name="location_permission_denied">This sample requires location permission to enable the \'my location\' layer. Please try again and grant access to use the location.\nIf the permission has been permanently denied, it can be enabled from the System Settings &gt; Apps &gt; \'Google Maps API Demos\'.</string>
+    <string name="permission_rationale_location">Access to the location service is required to demonstrate the \'my location\' feature, which shows your current location on the map.</string>
+    <string name="search_for_a_location">Search for a location</string>
+    <string name="def_number">74957777777</string>
+    <string name="from_to_string">ОТ/ДО</string>
+    <string name="def_string_for_address">укажите адрес</string>
+    <string name="st_additional_information">Дополнительная информация</string>
+    <string name="st_payment_methods">Способы оплаты</string>
+    <string name="txt_create">Создать</string>
+    <string name="txt_business_hours">Время работы:</string>
+    <string name="txt_to"> До </string>
+    <string name="txt_time_default_morning">9:00</string>
+    <string name="txt_time_default_evening">6:00PM</string>
+    <string name="txt_currency">Валюты</string>
+    <string name="txt_currency_setting">Валюта.</string>
+    <string name="txt_about_currency_exchange">О пункте обмена валют</string>
+    <string name="txt_specify_description">Укажите описание</string>
+    <string name="txt_the_minimum_amount">minimum amount</string>
+    <string name="txt_the_payment_method">payment method</string>
+    <string name="txt_the_phone_number">Номер</string>
+    <string name="txt_def_site">site.ru</string>
+    <string name="txt_site">Сайт</string>
+    <string name="txt_inf_exch_point">Информация о точке обмена</string>
+    <string name="txt_days_of_work">Дни работ  C </string>
+    <string name="txt_days_of_work_from">           По </string>
+    <string name="txt_default_price">650 руб.</string>
+    <string name="txt_to_change">Изменить</string>
+    <string name="txt_select_image">SELECT IMAGE</string>
+    <string name="txt_address">Адрес</string>
+    <string name="txt_from"> От </string>
+    <string name="required_field">Все поля должны быть заполнены.</string>
+    <string name="txt_field">Поле \'</string>
+    <string name="txt_empty">\' пустое или указано не верно. </string>
+    <string name="txt_am">AM</string>
+    <string name="txt_pm">PM</string>
+    <string name="txt_caps_email">EMAIL</string>
+    <string name="colon">:</string>
+    <string name="txt_dot">.</string>
+    <string name="txt_comma">,</string>
+    <string name="txt_right_square_brackets">]</string>
+    <string name="txt_left_square_brackets">[</string>
+    <string name="txt_map_file">map.txt</string>
+    <string name="txt_latitude">mLatitude</string>
+    <string name="txt_longitude">mLongitude</string>
+    <string name="txt_plz_wait">Please waiting…</string>
+    <string name="txt_authentication_error">Ошибка аутентификации.</string>
+    <string name="txt_got_error">You got an error</string>
+    <string name="txt_cancer_fb">Cancel Sign FB</string>
+    <string name="txt_error">Error</string>
+    <string name="txt_login_activity">LoginActivity</string>
+    <string name="txt_face_exception">FacebookException: </string>
+    <string name="txt_inv_number">Invalid number</string>
+    <string name="txt_fields">fields</string>
+    <string name="txt_login">Log in</string>
+    <string name="txt_sign">Sign in</string>
+    <string name="txt_email">email</string>
+    <string name="txt_first_name">first_name</string>
+    <string name="txt_some_fields">id,email,first_name,last_name,gender</string>
+    <string name="txt_format_data">MM/dd/yyyy HH:mm:ss</string>
+    <string name="txt_unique_id">stUniqueID</string>
+    <string name="txt_down_arrow"> ▼</string>
+    <string name="txt_invalid_value">Specified is not a valid value radio buttons</string>
+    <string name="txt_number_check">numberCheck</string>
+    <string name="txt_is_first_button">isFirstButton</string>
+    <string name="txt_you_selected">You selected: </string>
+    <string name="txt_crypto_currency_names">crypto_currency_names</string>
+    <string name="txt_currency_is_not">currency is not specified</string>
+
+
+
+    <string name="txt_def_currency">Установите валюту по умолчанию.</string>
+    <string name="txt_for_auth">Уже участник? Авторизоваться</string>
+    <string name="txt_show_location">Specify the location of the exchange point on the map.</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="txt_search_location">Search</string>
+    <string name="txt_communicate">Communicate</string>
+    <string name="txt_share">Share</string>
+    <string name="txt_send">Send</string>
+
+    <!-- Order is important here: -->
+    <string-array name="crypto_currency_names">
+        <item>BTC</item>
+        <item>ETH</item>
+        <item>ETC</item>
+        <item>XRP</item>
+        <item>LTC</item>
+        <item>XMR</item>
+        <item>DASH</item>
+        <item>MAID</item>
+        <item>AUR</item>
+        <item>XEM</item>
+    </string-array>
+    <string-array name="currency_names">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>GBP</item>
+    </string-array>
+
+    <string-array name="days_of_the_week_names">
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+        <item>Вс</item>
+    </string-array>
+
+    <string-array name="daytime_names">
+        <item>1AM</item>
+        <item>2AM</item>
+        <item>3AM</item>
+        <item>4AM</item>
+        <item>5AM</item>
+        <item>6AM</item>
+        <item>7AM</item>
+        <item>8AM</item>
+        <item>9AM</item>
+        <item>10AM</item>
+        <item>11AM</item>
+        <item>12AM</item>
+    </string-array>
+
+    <string-array name="payment_method_names">
+        <item>Card</item>
+        <item>Mail</item>
+        <item>Cash</item>
+
+    </string-array>
+
+    <string-array name="night_time_names">
+        <item>1PM</item>
+        <item>2PM</item>
+        <item>3PM</item>
+        <item>4PM</item>
+        <item>5PM</item>
+        <item>6PM</item>
+        <item>7PM</item>
+        <item>8PM</item>
+        <item>9PM</item>
+        <item>10PM</item>
+        <item>11PM</item>
+        <item>12PM</item>
+    </string-array>
+
+    <string-array name="country_flags">
+        <item>@drawable/ic_add</item>
+        <item>@drawable/ic_add</item>
+        <item>@drawable/ic_add</item>
+        <item>@drawable/ic_add</item>
+        <item>@drawable/ic_add</item>
+        <item>@drawable/ic_add</item>
+        <item>@drawable/ic_add</item>
+        <item>@drawable/ic_add</item>
+        <item>@drawable/ic_add</item>
+        <item>@drawable/ic_add</item>
+    </string-array>
+
+    <string-array name="ic_currency">
+        <item>@mipmap/ic_aur</item>
+        <item>@mipmap/ic_btc</item>
+        <item>@mipmap/ic_dash</item>
+        <item>@mipmap/ic_etc</item>
+        <item>@mipmap/ic_eth</item>
+        <item>@mipmap/ic_ltc</item>
+        <item>@mipmap/ic_maid</item>
+        <item>@mipmap/ic_xem</item>
+        <item>@mipmap/ic_xmr</item>
+        <item>@mipmap/ic_xrp</item>
+    </string-array>
+
+</resources>

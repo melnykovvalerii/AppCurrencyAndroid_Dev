@@ -1,0 +1,10 @@
+#Tue May 21 12:57:21 MSK 2019
+path.2=classes2.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=C\:\\Users\\Rikmen\\StudioProjects\\25.07.2018\\appforyou\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+base.1=C\:\\Users\\Rikmen\\StudioProjects\\25.07.2018\\appforyou\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+base.0=C\:\\Users\\Rikmen\\StudioProjects\\25.07.2018\\appforyou\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5

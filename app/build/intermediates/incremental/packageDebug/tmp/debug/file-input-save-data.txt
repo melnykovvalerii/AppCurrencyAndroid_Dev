@@ -1,0 +1,23 @@
+#Internal package file, do not edit.
+#Tue May 21 16:37:19 MSK 2019
+2.base=/Users/valeriimelnikov/Downloads/appforyou/app/build/intermediates/transforms/dexMerger/debug/14
+0.path=classes.dex
+2.baseType=DIRECTORY
+3.base=/Users/valeriimelnikov/Downloads/appforyou/app/build/intermediates/transforms/dexMerger/debug/11
+2.set=DEX
+1.path=schedule.html
+4.base=/Users/valeriimelnikov/Downloads/appforyou/app/build/intermediates/transforms/dexMerger/debug/12
+count=5
+2.path=classes.dex
+4.set=DEX
+3.path=classes.dex
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=classes.dex
+1.baseType=DIRECTORY
+0.base=/Users/valeriimelnikov/Downloads/appforyou/app/build/intermediates/transforms/dexMerger/debug/13
+0.baseType=DIRECTORY
+3.set=DEX
+1.base=/Users/valeriimelnikov/Downloads/appforyou/app/build/intermediates/assets/debug
+4.baseType=DIRECTORY
+0.set=DEX
