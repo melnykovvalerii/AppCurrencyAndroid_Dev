@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/valeriimelnikov/Downloads/appforyou/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+            "outputFile": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
             "map": [
                 {
-                    "source": "/Users/valeriimelnikov/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.8.0.aar/4dec79702de179b9991f83f58f1285a0/res/values-v11/values.xml",
+                    "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\ec17ff5414428dd4791a062d6f7d2d78\\play-services-appinvite-11.8.0\\res\\values-v11\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",

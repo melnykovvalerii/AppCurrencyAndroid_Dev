@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/valeriimelnikov/Downloads/appforyou/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bs-rBA/values-bs-rBA.xml",
+            "outputFile": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bs-rBA\\values-bs-rBA.xml",
             "map": [
                 {
-                    "source": "/Users/valeriimelnikov/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/e0ce73b9d6566e98527ad050cc722c14/res/values-bs-rBA/values-bs-rBA.xml",
+                    "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\values-bs-rBA\\values-bs-rBA.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

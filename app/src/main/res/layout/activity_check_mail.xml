@@ -1,10 +1,10 @@
 <android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
     android:background="@color/primary_light"
-    >
+    tools:context=".activities.ConfirmMailActivity">
 
     <android.support.design.widget.AppBarLayout
         android:layout_width="match_parent"
@@ -12,7 +12,6 @@
         android:theme="@style/AppTheme.AppBarOverlay">
 
         <android.support.v7.widget.Toolbar
-            android:id="@+id/toolbar_high_level_activity"
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize"
             android:background="?attr/colorPrimary"
@@ -26,6 +25,7 @@
         android:layout_height="match_parent"
         android:gravity="center_vertical"
         android:layout_marginTop="70dp">
+
         <TextView
             android:id="@+id/title"
             android:layout_width="match_parent"
@@ -37,38 +37,36 @@
             android:textSize="16sp"
             android:paddingRight="15dp"
             android:paddingLeft="15dp"/>
-        <!--<EditText-->
-            <!--android:id="@+id/ed_mail"-->
-            <!--android:layout_width="match_parent"-->
-            <!--android:layout_height="wrap_content"-->
-            <!--android:layout_marginBottom="20dp"-->
-            <!--android:gravity="center_horizontal"-->
-            <!--android:textColor="@color/primary_text"-->
-            <!--android:text="@string/enter_email"-->
-            <!--android:textSize="16sp"-->
-            <!--android:paddingRight="15dp"-->
-            <!--android:paddingLeft="15dp"/>-->
 
         <ImageView
-            android:id="@+id/body"
-            android:layout_marginBottom="20dp"
-            android:layout_marginLeft="20dp"
-            android:layout_marginRight="20dp"
             android:layout_width="match_parent"
             android:layout_height="150dp"
-            app:srcCompat="@mipmap/ic_mail"
-            android:gravity="top"/>
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="20dp"
+            android:gravity="top"
+            app:srcCompat="@mipmap/ic_mail" />
 
         <Button
-            android:id="@+id/send"
+            android:onClick="sendConfirmMailClick"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="10dp"
             android:layout_marginRight="10dp"
             android:textColor="@color/white"
             android:background="@drawable/my_button_bg_sign"
-            android:text="@string/st_check"
-            />
+            android:text="@string/st_check" />
+
+        <ProgressBar
+            android:id="@+id/timerBar"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginRight="10dp"
+            android:max="60"
+            android:visibility="invisible" />
 
     </LinearLayout>
 

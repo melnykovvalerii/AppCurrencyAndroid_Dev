@@ -53,7 +53,7 @@
             android:visibility="gone" />
 
         <Button
-            android:id="@+id/login_btn_google"
+            android:onClick="toGoogleClick"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="40dp"
@@ -68,7 +68,7 @@
              />
 
         <Button
-            android:id="@+id/login_btn_facebook"
+            android:onClick="toFacebookClick"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="30dp"
@@ -83,7 +83,7 @@
             android:textColor="@color/white" />
 
         <Button
-            android:id="@+id/appCompatButtonLogin"
+            android:onClick="toSignInClick"
             style="@style/MyButtonReg"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -95,16 +95,16 @@
             tools:context=".activities.LoginActivity" />
 
         <android.support.v7.widget.AppCompatTextView
-            android:id="@+id/textViewLinkRegister"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
             android:gravity="center"
             android:text="@string/text_not_member"
+            android:onClick="toSignUpClick"
             android:textColor="@color/white"
             android:textSize="16sp" />
         <android.support.v7.widget.AppCompatTextView
-            android:id="@+id/textLostPassword"
+            android:onClick="toRecoveryPasswordClick"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
@@ -132,13 +132,14 @@
             android:textAllCaps="true" />
 
         <TextView
-            android:id="@+id/textView2"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:background="@color/back_button"
             android:gravity="center"
-            android:text="registration"
-            android:textAllCaps="true" />
+            android:onClick="toSignUpClick"
+            android:text="@string/sign_up"
+            android:textAllCaps="true"
+            android:textColor="@android:color/background_light" />
     </LinearLayout>
 </LinearLayout>

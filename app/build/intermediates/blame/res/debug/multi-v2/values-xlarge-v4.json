@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/valeriimelnikov/Downloads/appforyou/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml",
+            "outputFile": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-v4\\values-xlarge-v4.xml",
             "map": [
                 {
-                    "source": "/Users/valeriimelnikov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/929bb7584bf0fb44ff68a11bc8ae72c6/res/values-xlarge-v4/values-xlarge-v4.xml",
+                    "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",

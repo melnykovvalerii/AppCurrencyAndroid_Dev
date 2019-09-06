@@ -6,12 +6,7 @@ import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 import android.widget.Toast;
 
-/**
- * Created by Rikmen on 09.07.2018.
- */
-
 public class CheckConnection {
-
 
     public void makeToastConnection(Activity activity) {
         Toast.makeText(activity, "Проверьте подключение к интернету", Toast.LENGTH_SHORT).show();

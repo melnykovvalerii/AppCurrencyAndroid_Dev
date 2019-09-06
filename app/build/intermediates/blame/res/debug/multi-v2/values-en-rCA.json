@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/valeriimelnikov/Downloads/appforyou/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rCA/values-en-rCA.xml",
+            "outputFile": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rCA\\values-en-rCA.xml",
             "map": [
                 {
-                    "source": "/Users/valeriimelnikov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/929bb7584bf0fb44ff68a11bc8ae72c6/res/values-en-rCA/values-en-rCA.xml",
+                    "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\values-en-rCA\\values-en-rCA.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/valeriimelnikov/.gradle/caches/transforms-1/files-1.1/play-services-wallet-11.8.0.aar/940ea9200f6cfd7e6ab4eb3dcee20ae0/res/values-en-rCA/values.xml",
+                    "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\4cd4ec36260c28126445ad0e6228ba3a\\play-services-wallet-11.8.0\\res\\values-en-rCA\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",

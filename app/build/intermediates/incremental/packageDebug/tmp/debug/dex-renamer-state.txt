@@ -1,13 +1,10 @@
-#Tue May 21 16:37:19 MSK 2019
-path.3=classes.dex
-path.2=classes.dex
+#Fri Sep 06 14:58:50 MSK 2019
+path.2=classes2.dex
 path.1=classes.dex
 path.0=classes.dex
-renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
-base.3=/Users/valeriimelnikov/Downloads/appforyou/app/build/intermediates/transforms/dexMerger/debug/14
-base.2=/Users/valeriimelnikov/Downloads/appforyou/app/build/intermediates/transforms/dexMerger/debug/11
-base.1=/Users/valeriimelnikov/Downloads/appforyou/app/build/intermediates/transforms/dexMerger/debug/12
-base.0=/Users/valeriimelnikov/Downloads/appforyou/app/build/intermediates/transforms/dexMerger/debug/13
+base.2=C\:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes2.dex
+base.1=C\:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
+base.0=C\:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex

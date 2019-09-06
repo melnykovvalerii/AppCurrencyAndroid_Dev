@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/valeriimelnikov/Downloads/appforyou/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
+            "outputFile": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
-                    "source": "/Users/valeriimelnikov/Downloads/appforyou/app/src/main/res/values-v24/integers.xml",
+                    "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\values-v24\\integers.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/valeriimelnikov/Downloads/appforyou/app/src/main/res/values-v24/styles.xml",
+                    "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\values-v24\\styles.xml",
                     "from": {
                         "startLines": "2,14",
                         "startColumns": "4,4",
@@ -40,24 +40,7 @@
                     }
                 },
                 {
-                    "source": "/Users/valeriimelnikov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/929bb7584bf0fb44ff68a11bc8ae72c6/res/values-v24/values-v24.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,212",
-                        "endColumns": "156,134",
-                        "endOffsets": "207,342"
-                    },
-                    "to": {
-                        "startLines": "14,15",
-                        "startColumns": "4,4",
-                        "startOffsets": "679,836",
-                        "endColumns": "156,134",
-                        "endOffsets": "831,966"
-                    }
-                },
-                {
-                    "source": "/Users/valeriimelnikov/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/5900a433148f0519b0f2885e6715f7a1/res/values-v24/values-v24.xml",
+                    "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\9a39467593168f990dfcbec9d6322e88\\support-media-compat-27.1.1\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -71,6 +54,23 @@
                         "startOffsets": "1184,1250,1311,1377",
                         "endColumns": "65,60,65,66",
                         "endOffsets": "1245,1306,1372,1439"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    },
+                    "to": {
+                        "startLines": "14,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "679,836",
+                        "endColumns": "156,134",
+                        "endOffsets": "831,966"
                     }
                 }
             ]

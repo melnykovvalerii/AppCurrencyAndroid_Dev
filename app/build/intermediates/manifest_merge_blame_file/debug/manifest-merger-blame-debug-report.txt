@@ -1,0 +1,555 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.allerates.appforyou"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="27" />
+9-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:6:5-79
+11-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:6:22-76
+12    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+12-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:7:5-76
+12-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:7:22-73
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:8:5-67
+13-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:8:22-64
+14    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+14-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:9:5-81
+14-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:9:22-78
+15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+15-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:10:5-79
+15-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:10:22-76
+16    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+16-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:11:5-80
+16-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:11:22-77
+17    <uses-permission android:name="com.example.permission.MAPS_RECEIVE" />
+17-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:12:5-75
+17-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:12:22-72
+18    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+18-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:13:5-81
+18-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:13:22-78
+19    <!-- USE_CREDENTIALS is necessary for Google+ login -->
+20    <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+20-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:15:5-74
+20-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:15:22-71
+21    <!-- GET_ACCOUNTS is necessary to display email address of logged in user. This permission is optional -->
+22    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+22-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:17:5-71
+22-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:17:22-68
+23    <!-- Maps API needs OpenGL ES 2.0. -->
+24    <uses-feature
+24-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:19:5-21:35
+25        android:glEsVersion="0x00020000"
+25-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:20:9-41
+26        android:required="true" />
+26-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:21:9-32
+27
+28    <meta-data
+28-->[com.android.support:customtabs:25.3.1] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\6d1feb5f859dc482e0d203001a62b1e0\customtabs-25.3.1\AndroidManifest.xml:22:5-24:34
+29        android:name="android.support.VERSION"
+29-->[com.android.support:customtabs:25.3.1] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\6d1feb5f859dc482e0d203001a62b1e0\customtabs-25.3.1\AndroidManifest.xml:23:9-47
+30        android:value="25.3.1" />
+30-->[com.android.support:customtabs:25.3.1] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\6d1feb5f859dc482e0d203001a62b1e0\customtabs-25.3.1\AndroidManifest.xml:24:9-31
+31
+32    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create GCM registration tokens -->
+32-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:25:5-68
+32-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:25:22-65
+33    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+33-->[com.google.android.gms:play-services-gcm:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\5acfd8f49e3718648bb3a406db9e7ca1\play-services-gcm-11.8.0\AndroidManifest.xml:23:5-82
+33-->[com.google.android.gms:play-services-gcm:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\5acfd8f49e3718648bb3a406db9e7ca1\play-services-gcm-11.8.0\AndroidManifest.xml:23:22-79
+34
+35    <permission
+35-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:28:5-30:47
+36        android:name="com.allerates.appforyou.permission.C2D_MESSAGE"
+36-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:29:9-63
+37        android:protectionLevel="signature" />
+37-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:30:9-44
+38
+39    <uses-permission android:name="com.allerates.appforyou.permission.C2D_MESSAGE" />
+39-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:32:5-79
+39-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:32:22-76
+40
+41    <application
+41-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:23:5-119:19
+42        android:allowBackup="true"
+42-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:24:9-35
+43        android:debuggable="true"
+44        android:hardwareAccelerated="false"
+44-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:25:9-44
+45        android:icon="@mipmap/logo"
+45-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:26:9-36
+46        android:label="@string/app_name"
+46-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:27:9-41
+47        android:largeHeap="true"
+47-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:28:9-33
+48        android:supportsRtl="true"
+48-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:29:9-35
+49        android:testOnly="true"
+50        android:theme="@style/AppTheme" >
+50-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:30:9-40
+51        <uses-library android:name="com.google.android.maps" />
+51-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:32:9-64
+51-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:32:23-61
+52
+53        <activity
+53-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:33:9-42:20
+54            android:name="com.allerates.appforyou.activities.StartActivity"
+54-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:34:13-53
+55            android:screenOrientation="portrait"
+55-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:35:13-49
+56            android:theme="@style/SplashTheme" >
+56-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:36:13-47
+57            <intent-filter>
+57-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:37:13-41:29
+58                <action android:name="android.intent.action.MAIN" />
+58-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:38:17-69
+58-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:38:25-66
+59
+60                <category android:name="android.intent.category.LAUNCHER" />
+60-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:40:17-77
+60-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:40:27-74
+61            </intent-filter>
+62        </activity>
+63
+64        <meta-data
+64-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:44:9-46:71
+65            android:name="com.google.android.geo.API_KEY"
+65-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:45:13-58
+66            android:value="AIzaSyAE3_uWnx8h6MXxesKdCM36--E21Qlt_wM" />
+66-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:46:13-68
+67        <meta-data
+67-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:47:9-49:69
+68            android:name="com.google.android.gms.version"
+68-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:48:13-58
+69            android:value="@integer/google_play_services_version" />
+69-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:49:13-66
+70
+71        <activity
+71-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:51:9-53:52
+72            android:name="com.allerates.appforyou.activities.SignUpActivity"
+72-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:52:13-54
+73            android:screenOrientation="portrait" />
+73-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:53:13-49
+74        <activity
+74-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:54:9-57:60
+75            android:name="com.allerates.appforyou.activities.LoginActivity"
+75-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:55:13-53
+76            android:screenOrientation="portrait"
+76-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:56:13-49
+77            android:theme="@style/Theme.AppCompat.Light" />
+77-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:57:13-57
+78        <activity
+78-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:58:9-60:52
+79            android:name="com.allerates.appforyou.activities.UsersListActivity"
+79-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:59:13-57
+80            android:screenOrientation="portrait" />
+80-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:60:13-49
+81        <activity
+81-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:61:9-64:58
+82            android:name="com.allerates.appforyou.activities.MainActivity"
+82-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:62:13-52
+83            android:screenOrientation="portrait"
+83-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:63:13-49
+84            android:theme="@style/AppTheme.FullScreen" />
+84-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:64:13-55
+85
+86        <meta-data
+86-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:66:9-68:55
+87            android:name="com.facebook.sdk.ApplicationId"
+87-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:67:13-58
+88            android:value="@string/facebook_app_id" />
+88-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:68:13-52
+89
+90        <activity
+90-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:70:9-74:52
+91            android:name="com.facebook.FacebookActivity"
+91-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:71:13-57
+92            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+92-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:72:13-96
+93            android:label="@string/app_name"
+93-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:73:13-45
+94            android:screenOrientation="portrait"
+94-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:74:13-49
+95            android:theme="@style/com_facebook_activity_theme" />
+95-->[com.facebook.android:facebook-android-sdk:4.26.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\db5d3424be1ee2ca0aa4caf8b4820561\facebook-android-sdk-4.26.0\AndroidManifest.xml:32:13-63
+96        <activity
+96-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:75:9-79:72
+97            android:name="com.allerates.appforyou.activities.SettingActivity"
+97-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:76:13-55
+98            android:label="@string/setting"
+98-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:77:13-44
+99            android:screenOrientation="portrait"
+99-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:78:13-49
+100            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+100-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:79:13-69
+101        <activity
+101-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:80:9-83:59
+102            android:name="com.allerates.appforyou.json.MainTest"
+102-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:81:13-42
+103            android:screenOrientation="portrait"
+103-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:82:13-49
+104            android:theme="@style/AppTheme.NoActionBar" />
+104-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:83:13-56
+105        <activity
+105-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:84:9-88:59
+106            android:name="com.allerates.appforyou.activities.ClusteringDemoActivity"
+106-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:85:13-62
+107            android:label="@string/title_activity_setting"
+107-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:86:13-59
+108            android:screenOrientation="portrait"
+108-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:87:13-49
+109            android:theme="@style/AppTheme.NoActionBar" />
+109-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:88:13-56
+110        <activity
+110-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:89:9-93:59
+111            android:name="com.allerates.appforyou.activities.AddLabelActivity"
+111-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:90:13-56
+112            android:label="@string/title_activity_setting"
+112-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:91:13-59
+113            android:screenOrientation="portrait"
+113-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:92:13-49
+114            android:theme="@style/AppTheme.NoActionBar" />
+114-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:93:13-56
+115        <activity
+115-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:94:9-98:56
+116            android:name="com.allerates.appforyou.activities.DialogActivity"
+116-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:95:13-54
+117            android:noHistory="true"
+117-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:96:13-37
+118            android:screenOrientation="portrait"
+118-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:97:13-49
+119            android:theme="@style/AlertDialogCustom" />
+119-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:98:13-53
+120        <activity android:name="com.allerates.appforyou.activities.CustomMarkerClusteringDemoActivity" />
+120-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:99:9-83
+120-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:99:19-80
+121        <activity
+121-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:100:9-103:59
+122            android:name="com.allerates.appforyou.activities.DetailedActivity"
+122-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:101:13-56
+123            android:screenOrientation="portrait"
+123-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:102:13-49
+124            android:theme="@style/AppTheme.NoActionBar" />
+124-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:103:13-56
+125        <activity
+125-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:104:9-108:59
+126            android:name="com.allerates.appforyou.activities.AddCommendActivity"
+126-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:105:13-58
+127            android:label="@string/title_activity_main3"
+127-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:106:13-57
+128            android:screenOrientation="portrait"
+128-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:107:13-49
+129            android:theme="@style/AppTheme.NoActionBar" />
+129-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:108:13-56
+130        <activity
+130-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:109:9-112:58
+131            android:name="com.allerates.appforyou.activities.ActivityContactUs"
+131-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:110:13-57
+132            android:screenOrientation="portrait"
+132-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:111:13-49
+133            android:theme="@style/AppTheme.FullScreen" />
+133-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:112:13-55
+134        <activity android:name="com.allerates.appforyou.activities.ShowListCommendActivity" />
+134-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:113:9-115:66
+134-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:115:13-63
+135        <activity android:name="com.allerates.appforyou.activities.ConfirmMailActivity" />
+135-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:116:9-68
+135-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:116:19-65
+136        <activity android:name="com.allerates.appforyou.activities.PasswordRecognitionActivity" />
+136-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:117:9-76
+136-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:117:19-73
+137        <activity android:name="com.allerates.appforyou.activities.ActivitySetPassword" />
+137-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:118:9-68
+137-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:118:19-65
+138        <activity android:name="com.facebook.CustomTabMainActivity" />
+138-->[com.facebook.android:facebook-android-sdk:4.26.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\db5d3424be1ee2ca0aa4caf8b4820561\facebook-android-sdk-4.26.0\AndroidManifest.xml:33:9-71
+138-->[com.facebook.android:facebook-android-sdk:4.26.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\db5d3424be1ee2ca0aa4caf8b4820561\facebook-android-sdk-4.26.0\AndroidManifest.xml:33:19-68
+139        <!--
+140         The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
+141         with the application context. This config is merged in with the host app's manifest,
+142         but there can only be one provider with the same authority activated at any given
+143         point; so if the end user has two or more different apps that use Facebook SDK, only the
+144         first one will be able to use the provider. To work around this problem, we use the
+145         following placeholder in the authority to identify each host application as if it was
+146         a completely different provider.
+147        -->
+148        <provider
+148-->[com.facebook.android:facebook-android-sdk:4.26.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\db5d3424be1ee2ca0aa4caf8b4820561\facebook-android-sdk-4.26.0\AndroidManifest.xml:44:9-47:40
+149            android:name="com.facebook.internal.FacebookInitProvider"
+149-->[com.facebook.android:facebook-android-sdk:4.26.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\db5d3424be1ee2ca0aa4caf8b4820561\facebook-android-sdk-4.26.0\AndroidManifest.xml:45:13-70
+150            android:authorities="com.allerates.appforyou.FacebookInitProvider"
+150-->[com.facebook.android:facebook-android-sdk:4.26.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\db5d3424be1ee2ca0aa4caf8b4820561\facebook-android-sdk-4.26.0\AndroidManifest.xml:46:13-72
+151            android:exported="false" />
+151-->[com.facebook.android:facebook-android-sdk:4.26.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\db5d3424be1ee2ca0aa4caf8b4820561\facebook-android-sdk-4.26.0\AndroidManifest.xml:47:13-37
+152
+153        <receiver android:name="com.google.android.gms.cast.framework.media.MediaIntentReceiver" />
+153-->[com.google.android.gms:play-services-cast-framework:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\693786a5481170f7e6dbb6b4a22e511e\play-services-cast-framework-11.8.0\AndroidManifest.xml:8:9-100
+153-->[com.google.android.gms:play-services-cast-framework:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\693786a5481170f7e6dbb6b4a22e511e\play-services-cast-framework-11.8.0\AndroidManifest.xml:8:19-97
+154
+155        <service android:name="com.google.android.gms.cast.framework.media.MediaNotificationService" />
+155-->[com.google.android.gms:play-services-cast-framework:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\693786a5481170f7e6dbb6b4a22e511e\play-services-cast-framework-11.8.0\AndroidManifest.xml:10:9-104
+155-->[com.google.android.gms:play-services-cast-framework:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\693786a5481170f7e6dbb6b4a22e511e\play-services-cast-framework-11.8.0\AndroidManifest.xml:10:18-101
+156        <service android:name="com.google.android.gms.cast.framework.ReconnectionService" />
+156-->[com.google.android.gms:play-services-cast-framework:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\693786a5481170f7e6dbb6b4a22e511e\play-services-cast-framework-11.8.0\AndroidManifest.xml:11:9-93
+156-->[com.google.android.gms:play-services-cast-framework:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\693786a5481170f7e6dbb6b4a22e511e\play-services-cast-framework-11.8.0\AndroidManifest.xml:11:18-90
+157
+158        <activity
+158-->[com.google.firebase:firebase-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\cb9a1e63de1d57cfc04ba79454ea4eac\firebase-auth-11.8.0\AndroidManifest.xml:23:9-29:75
+159            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+159-->[com.google.firebase:firebase-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\cb9a1e63de1d57cfc04ba79454ea4eac\firebase-auth-11.8.0\AndroidManifest.xml:24:13-85
+160            android:excludeFromRecents="true"
+160-->[com.google.firebase:firebase-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\cb9a1e63de1d57cfc04ba79454ea4eac\firebase-auth-11.8.0\AndroidManifest.xml:25:13-46
+161            android:exported="true"
+161-->[com.google.firebase:firebase-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\cb9a1e63de1d57cfc04ba79454ea4eac\firebase-auth-11.8.0\AndroidManifest.xml:26:13-36
+162            android:launchMode="singleInstance"
+162-->[com.google.firebase:firebase-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\cb9a1e63de1d57cfc04ba79454ea4eac\firebase-auth-11.8.0\AndroidManifest.xml:27:13-48
+163            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+163-->[com.google.firebase:firebase-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\cb9a1e63de1d57cfc04ba79454ea4eac\firebase-auth-11.8.0\AndroidManifest.xml:28:13-102
+164            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+164-->[com.google.firebase:firebase-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\cb9a1e63de1d57cfc04ba79454ea4eac\firebase-auth-11.8.0\AndroidManifest.xml:29:13-72
+165        <activity
+165-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ca4086168698bf46df2572dc16cbe41c\play-services-auth-11.8.0\AndroidManifest.xml:23:9-27:75
+166            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+166-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ca4086168698bf46df2572dc16cbe41c\play-services-auth-11.8.0\AndroidManifest.xml:24:13-93
+167            android:excludeFromRecents="true"
+167-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ca4086168698bf46df2572dc16cbe41c\play-services-auth-11.8.0\AndroidManifest.xml:25:13-46
+168            android:exported="false"
+168-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ca4086168698bf46df2572dc16cbe41c\play-services-auth-11.8.0\AndroidManifest.xml:26:13-37
+169            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+169-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ca4086168698bf46df2572dc16cbe41c\play-services-auth-11.8.0\AndroidManifest.xml:27:13-72
+170        <!--
+171            Service handling Google Sign-In user revocation. For apps that do not integrate with
+172            Google Sign-In, this service will never be started.
+173        -->
+174        <service
+174-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ca4086168698bf46df2572dc16cbe41c\play-services-auth-11.8.0\AndroidManifest.xml:33:9-36:110
+175            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+175-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ca4086168698bf46df2572dc16cbe41c\play-services-auth-11.8.0\AndroidManifest.xml:34:13-89
+176            android:exported="true"
+176-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ca4086168698bf46df2572dc16cbe41c\play-services-auth-11.8.0\AndroidManifest.xml:35:13-36
+177            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+177-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ca4086168698bf46df2572dc16cbe41c\play-services-auth-11.8.0\AndroidManifest.xml:36:13-107
+178        <service
+178-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:27:9-30:40
+179            android:name="com.google.android.gms.tagmanager.TagManagerService"
+179-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:28:13-79
+180            android:enabled="true"
+180-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:29:13-35
+181            android:exported="false" />
+181-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:30:13-37
+182
+183        <activity
+183-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:32:9-44:20
+184            android:name="com.google.android.gms.tagmanager.TagManagerPreviewActivity"
+184-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:33:13-87
+185            android:exported="true"
+185-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:34:13-36
+186            android:noHistory="true" > <!-- optional, removes the previewActivity from the activity stack. -->
+186-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:35:13-37
+187            <intent-filter>
+187-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:36:13-43:29
+188                <data android:scheme="tagmanager.c.com.allerates.appforyou" />
+188-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:37:17-72
+188-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:37:23-69
+189
+190                <action android:name="android.intent.action.VIEW" />
+190-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:39:17-69
+190-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:39:25-66
+191
+192                <category android:name="android.intent.category.DEFAULT" />
+192-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:41:17-76
+192-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:41:27-73
+193                <category android:name="android.intent.category.BROWSABLE" />
+193-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:42:17-78
+193-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:42:27-75
+194            </intent-filter>
+195        </activity>
+196
+197        <receiver
+197-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:28:9-32:20
+198            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+198-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:29:13-85
+199            android:enabled="true"
+199-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:30:13-35
+200            android:exported="false" >
+200-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:31:13-37
+201        </receiver>
+202        <receiver
+202-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:33:9-41:20
+203            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+203-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:34:13-100
+204            android:enabled="true"
+204-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:35:13-35
+205            android:exported="true"
+205-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:36:13-36
+206            android:permission="android.permission.INSTALL_PACKAGES" >
+206-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:37:13-69
+207            <intent-filter>
+207-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:38:13-40:29
+208                <action android:name="com.android.vending.INSTALL_REFERRER" />
+208-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:39:17-79
+208-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:39:25-76
+209            </intent-filter>
+210        </receiver>
+211
+212        <service
+212-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:43:9-46:40
+213            android:name="com.google.android.gms.measurement.AppMeasurementService"
+213-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:44:13-84
+214            android:enabled="true"
+214-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:45:13-35
+215            android:exported="false" />
+215-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:46:13-37
+216        <service
+216-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:47:9-51:72
+217            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+217-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:48:13-87
+218            android:enabled="true"
+218-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:49:13-35
+219            android:exported="false"
+219-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:50:13-37
+220            android:permission="android.permission.BIND_JOB_SERVICE" />
+220-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:51:13-69
+221
+222        <receiver
+222-->[com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\f5c832a88810456f25dd8380599685a7\play-services-analytics-11.8.0\AndroidManifest.xml:30:9-34:20
+223            android:name="com.google.android.gms.analytics.AnalyticsReceiver"
+223-->[com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\f5c832a88810456f25dd8380599685a7\play-services-analytics-11.8.0\AndroidManifest.xml:31:13-78
+224            android:enabled="true"
+224-->[com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\f5c832a88810456f25dd8380599685a7\play-services-analytics-11.8.0\AndroidManifest.xml:32:13-35
+225            android:exported="false" >
+225-->[com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\f5c832a88810456f25dd8380599685a7\play-services-analytics-11.8.0\AndroidManifest.xml:33:13-37
+226        </receiver>
+227
+228        <service
+228-->[com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\f5c832a88810456f25dd8380599685a7\play-services-analytics-11.8.0\AndroidManifest.xml:36:9-39:40
+229            android:name="com.google.android.gms.analytics.AnalyticsService"
+229-->[com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\f5c832a88810456f25dd8380599685a7\play-services-analytics-11.8.0\AndroidManifest.xml:37:13-77
+230            android:enabled="true"
+230-->[com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\f5c832a88810456f25dd8380599685a7\play-services-analytics-11.8.0\AndroidManifest.xml:38:13-35
+231            android:exported="false" />
+231-->[com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\f5c832a88810456f25dd8380599685a7\play-services-analytics-11.8.0\AndroidManifest.xml:39:13-37
+232        <service
+232-->[com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\f5c832a88810456f25dd8380599685a7\play-services-analytics-11.8.0\AndroidManifest.xml:40:9-44:72
+233            android:name="com.google.android.gms.analytics.AnalyticsJobService"
+233-->[com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\f5c832a88810456f25dd8380599685a7\play-services-analytics-11.8.0\AndroidManifest.xml:41:13-80
+234            android:enabled="true"
+234-->[com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\f5c832a88810456f25dd8380599685a7\play-services-analytics-11.8.0\AndroidManifest.xml:42:13-35
+235            android:exported="false"
+235-->[com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\f5c832a88810456f25dd8380599685a7\play-services-analytics-11.8.0\AndroidManifest.xml:43:13-37
+236            android:permission="android.permission.BIND_JOB_SERVICE" />
+236-->[com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\f5c832a88810456f25dd8380599685a7\play-services-analytics-11.8.0\AndroidManifest.xml:44:13-69
+237
+238        <activity
+238-->[com.google.android.gms:play-services-appinvite:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ec17ff5414428dd4791a062d6f7d2d78\play-services-appinvite-11.8.0\AndroidManifest.xml:25:9-34:20
+239            android:name="com.google.android.gms.appinvite.PreviewActivity"
+239-->[com.google.android.gms:play-services-appinvite:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ec17ff5414428dd4791a062d6f7d2d78\play-services-appinvite-11.8.0\AndroidManifest.xml:26:13-76
+240            android:exported="true"
+240-->[com.google.android.gms:play-services-appinvite:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ec17ff5414428dd4791a062d6f7d2d78\play-services-appinvite-11.8.0\AndroidManifest.xml:27:13-36
+241            android:theme="@style/Theme.AppInvite.Preview" >
+241-->[com.google.android.gms:play-services-appinvite:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ec17ff5414428dd4791a062d6f7d2d78\play-services-appinvite-11.8.0\AndroidManifest.xml:28:13-59
+242            <intent-filter>
+242-->[com.google.android.gms:play-services-appinvite:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ec17ff5414428dd4791a062d6f7d2d78\play-services-appinvite-11.8.0\AndroidManifest.xml:29:13-33:29
+243                <action android:name="com.google.android.gms.appinvite.ACTION_PREVIEW" />
+243-->[com.google.android.gms:play-services-appinvite:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ec17ff5414428dd4791a062d6f7d2d78\play-services-appinvite-11.8.0\AndroidManifest.xml:30:17-90
+243-->[com.google.android.gms:play-services-appinvite:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ec17ff5414428dd4791a062d6f7d2d78\play-services-appinvite-11.8.0\AndroidManifest.xml:30:25-87
+244
+245                <category android:name="android.intent.category.DEFAULT" />
+245-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:41:17-76
+245-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:41:27-73
+246            </intent-filter>
+247        </activity>
+248        <activity
+248-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\389ea305a2bf0cb7b0d3f5ed0d8769d7\play-services-base-11.8.0\AndroidManifest.xml:23:9-26:75
+249            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+249-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\389ea305a2bf0cb7b0d3f5ed0d8769d7\play-services-base-11.8.0\AndroidManifest.xml:24:13-79
+250            android:exported="false"
+250-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\389ea305a2bf0cb7b0d3f5ed0d8769d7\play-services-base-11.8.0\AndroidManifest.xml:25:13-37
+251            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+251-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\389ea305a2bf0cb7b0d3f5ed0d8769d7\play-services-base-11.8.0\AndroidManifest.xml:26:13-72
+252        <!--
+253             FirebaseMessagingService performs security checks at runtime,
+254             no need for explicit permissions despite exported="true"
+255        -->
+256        <service
+256-->[com.google.firebase:firebase-messaging:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\a0901d63b77c8519400d46eb367305b9\firebase-messaging-11.8.0\AndroidManifest.xml:28:9-34:19
+257            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+257-->[com.google.firebase:firebase-messaging:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\a0901d63b77c8519400d46eb367305b9\firebase-messaging-11.8.0\AndroidManifest.xml:29:13-82
+258            android:exported="true" >
+258-->[com.google.firebase:firebase-messaging:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\a0901d63b77c8519400d46eb367305b9\firebase-messaging-11.8.0\AndroidManifest.xml:30:13-36
+259            <intent-filter android:priority="-500" >
+259-->[com.google.firebase:firebase-messaging:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\a0901d63b77c8519400d46eb367305b9\firebase-messaging-11.8.0\AndroidManifest.xml:31:13-33:29
+259-->[com.google.firebase:firebase-messaging:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\a0901d63b77c8519400d46eb367305b9\firebase-messaging-11.8.0\AndroidManifest.xml:31:28-51
+260                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+260-->[com.google.firebase:firebase-messaging:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\a0901d63b77c8519400d46eb367305b9\firebase-messaging-11.8.0\AndroidManifest.xml:32:17-78
+260-->[com.google.firebase:firebase-messaging:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\a0901d63b77c8519400d46eb367305b9\firebase-messaging-11.8.0\AndroidManifest.xml:32:25-75
+261            </intent-filter>
+262        </service>
+263
+264        <receiver
+264-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:35:9-44:20
+265            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+265-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:36:13-78
+266            android:exported="true"
+266-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:37:13-36
+267            android:permission="com.google.android.c2dm.permission.SEND" >
+267-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:38:13-73
+268            <intent-filter>
+268-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:39:13-43:29
+269                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+269-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:40:17-81
+269-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:40:25-78
+270
+271                <category android:name="com.allerates.appforyou" />
+271-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:42:17-61
+271-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:42:27-58
+272            </intent-filter>
+273        </receiver>
+274        <!--
+275             FirebaseInstanceIdService performs security checks at runtime,
+276             no need for explicit permissions despite exported="true"
+277        -->
+278        <service
+278-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:50:9-56:19
+279            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+279-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:51:13-77
+280            android:exported="true" >
+280-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:52:13-36
+281            <intent-filter android:priority="-500" >
+281-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:53:13-55:29
+281-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:53:28-51
+282                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+282-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:54:17-80
+282-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:54:25-77
+283            </intent-filter>
+284        </service>
+285
+286        <provider
+286-->[com.google.firebase:firebase-common:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\c0f4fba04414e4d64d895a5f7a8fccdb\firebase-common-11.8.0\AndroidManifest.xml:8:9-12:39
+287            android:name="com.google.firebase.provider.FirebaseInitProvider"
+287-->[com.google.firebase:firebase-common:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\c0f4fba04414e4d64d895a5f7a8fccdb\firebase-common-11.8.0\AndroidManifest.xml:9:13-77
+288            android:authorities="com.allerates.appforyou.firebaseinitprovider"
+288-->[com.google.firebase:firebase-common:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\c0f4fba04414e4d64d895a5f7a8fccdb\firebase-common-11.8.0\AndroidManifest.xml:10:13-72
+289            android:exported="false"
+289-->[com.google.firebase:firebase-common:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\c0f4fba04414e4d64d895a5f7a8fccdb\firebase-common-11.8.0\AndroidManifest.xml:11:13-37
+290            android:initOrder="100" /> <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+290-->[com.google.firebase:firebase-common:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\c0f4fba04414e4d64d895a5f7a8fccdb\firebase-common-11.8.0\AndroidManifest.xml:12:13-36
+291        <activity
+291-->[com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\bf400e9b2e8115f266f119abddd42945\play-services-ads-lite-11.8.0\AndroidManifest.xml:29:9-33:64
+292            android:name="com.google.android.gms.ads.AdActivity"
+292-->[com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\bf400e9b2e8115f266f119abddd42945\play-services-ads-lite-11.8.0\AndroidManifest.xml:30:13-65
+293            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+293-->[com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\bf400e9b2e8115f266f119abddd42945\play-services-ads-lite-11.8.0\AndroidManifest.xml:31:13-122
+294            android:exported="false"
+294-->[com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\bf400e9b2e8115f266f119abddd42945\play-services-ads-lite-11.8.0\AndroidManifest.xml:32:13-37
+295            android:theme="@android:style/Theme.Translucent" />
+295-->[com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\bf400e9b2e8115f266f119abddd42945\play-services-ads-lite-11.8.0\AndroidManifest.xml:33:13-61
+296    </application>
+297
+298</manifest>

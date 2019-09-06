@@ -231,11 +231,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
 
     public boolean getUserLoggedIn(Context context){
       initUserLocalDatabase(context);
-      if(userLocalDatabase.getBoolean("loggedIn", false)){
-          return true;
-      }else {
-          return false;
-      }
+      return userLocalDatabase.getBoolean("loggedIn", false);
     }
 
     /**

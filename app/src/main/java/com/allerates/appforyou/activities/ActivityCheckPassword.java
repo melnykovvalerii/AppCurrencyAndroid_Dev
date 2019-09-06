@@ -169,7 +169,7 @@ public class ActivityCheckPassword extends AppCompatActivity {
     @Override
     public void onBackPressed() {
         super.onBackPressed();
-        Intent intent = new Intent(ActivityCheckPassword.this, RegisterActivity.class);
+        Intent intent = new Intent(ActivityCheckPassword.this, SignUpActivity.class);
         intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP | Intent.FLAG_ACTIVITY_SINGLE_TOP);
         startActivity(intent);
         overridePendingTransition(R.anim.open_main, R.anim.close_next);
