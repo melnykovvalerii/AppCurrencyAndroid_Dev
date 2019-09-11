@@ -61,19 +61,19 @@ public final class R {
 
         public static final int amu_bubble_mask = 0x7f08005a;
         public static final int amu_bubble_shadow = 0x7f08005b;
-        public static final int common_full_open_on_phone = 0x7f0800bf;
-        public static final int common_google_signin_btn_icon_dark = 0x7f0800c0;
-        public static final int common_google_signin_btn_icon_dark_focused = 0x7f0800c1;
-        public static final int common_google_signin_btn_icon_dark_normal = 0x7f0800c2;
-        public static final int common_google_signin_btn_icon_light = 0x7f0800c5;
-        public static final int common_google_signin_btn_icon_light_focused = 0x7f0800c6;
-        public static final int common_google_signin_btn_icon_light_normal = 0x7f0800c7;
-        public static final int common_google_signin_btn_text_dark = 0x7f0800c9;
-        public static final int common_google_signin_btn_text_dark_focused = 0x7f0800ca;
-        public static final int common_google_signin_btn_text_dark_normal = 0x7f0800cb;
-        public static final int common_google_signin_btn_text_light = 0x7f0800ce;
-        public static final int common_google_signin_btn_text_light_focused = 0x7f0800cf;
-        public static final int common_google_signin_btn_text_light_normal = 0x7f0800d0;
+        public static final int common_full_open_on_phone = 0x7f0800c1;
+        public static final int common_google_signin_btn_icon_dark = 0x7f0800c2;
+        public static final int common_google_signin_btn_icon_dark_focused = 0x7f0800c3;
+        public static final int common_google_signin_btn_icon_dark_normal = 0x7f0800c4;
+        public static final int common_google_signin_btn_icon_light = 0x7f0800c7;
+        public static final int common_google_signin_btn_icon_light_focused = 0x7f0800c8;
+        public static final int common_google_signin_btn_icon_light_normal = 0x7f0800c9;
+        public static final int common_google_signin_btn_text_dark = 0x7f0800cb;
+        public static final int common_google_signin_btn_text_dark_focused = 0x7f0800cc;
+        public static final int common_google_signin_btn_text_dark_normal = 0x7f0800cd;
+        public static final int common_google_signin_btn_text_light = 0x7f0800d0;
+        public static final int common_google_signin_btn_text_light_focused = 0x7f0800d1;
+        public static final int common_google_signin_btn_text_light_normal = 0x7f0800d2;
     }
     public static final class id {
         private id() {}
@@ -82,18 +82,18 @@ public final class R {
         public static final int adjust_width = 0x7f090025;
         public static final int amu_text = 0x7f09002a;
         public static final int auto = 0x7f090033;
-        public static final int dark = 0x7f09009e;
-        public static final int hybrid = 0x7f0900e6;
-        public static final int icon_only = 0x7f0900ea;
-        public static final int light = 0x7f090104;
-        public static final int none = 0x7f090149;
-        public static final int normal = 0x7f09014a;
-        public static final int satellite = 0x7f09017b;
-        public static final int standard = 0x7f0901af;
-        public static final int terrain = 0x7f0901bd;
-        public static final int webview = 0x7f090214;
-        public static final int wide = 0x7f090215;
-        public static final int window = 0x7f090216;
+        public static final int dark = 0x7f09009f;
+        public static final int hybrid = 0x7f0900e7;
+        public static final int icon_only = 0x7f0900eb;
+        public static final int light = 0x7f090106;
+        public static final int none = 0x7f09014a;
+        public static final int normal = 0x7f09014b;
+        public static final int satellite = 0x7f09017c;
+        public static final int standard = 0x7f0901b0;
+        public static final int terrain = 0x7f0901be;
+        public static final int webview = 0x7f090215;
+        public static final int wide = 0x7f090216;
+        public static final int window = 0x7f090217;
     }
     public static final class integer {
         private integer() {}
@@ -103,9 +103,9 @@ public final class R {
     public static final class layout {
         private layout() {}
 
-        public static final int amu_info_window = 0x7f0c0031;
-        public static final int amu_text_bubble = 0x7f0c0032;
-        public static final int amu_webview = 0x7f0c0033;
+        public static final int amu_info_window = 0x7f0c0030;
+        public static final int amu_text_bubble = 0x7f0c0031;
+        public static final int amu_webview = 0x7f0c0032;
     }
     public static final class raw {
         private raw() {}

@@ -18,7 +18,7 @@ class StartActivity : AppCompatActivity() {
         animLogo.setAnimationListener(object : Animation.AnimationListener {
             override fun onAnimationStart(animation: Animation) {}
             override fun onAnimationEnd(animation: Animation) {
-                startActivity(LoginActivity::class.java)
+                startActivity(CourseActivity::class.java)
             }
             override fun onAnimationRepeat(animation: Animation) {}
         })

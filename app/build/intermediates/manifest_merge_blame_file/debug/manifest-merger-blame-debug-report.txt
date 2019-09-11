@@ -76,7 +76,7 @@
 39-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:32:22-76
 40
 41    <application
-41-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:23:5-119:19
+41-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:23:5-121:19
 42        android:allowBackup="true"
 42-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:24:9-35
 43        android:debuggable="true"
@@ -261,295 +261,301 @@
 135        <activity android:name="com.allerates.appforyou.activities.ConfirmMailActivity" />
 135-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:116:9-68
 135-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:116:19-65
-136        <activity android:name="com.allerates.appforyou.activities.PasswordRecognitionActivity" />
-136-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:117:9-76
-136-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:117:19-73
-137        <activity android:name="com.allerates.appforyou.activities.ActivitySetPassword" />
-137-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:118:9-68
-137-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:118:19-65
-138        <activity android:name="com.facebook.CustomTabMainActivity" />
-138-->[com.facebook.android:facebook-android-sdk:4.26.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\db5d3424be1ee2ca0aa4caf8b4820561\facebook-android-sdk-4.26.0\AndroidManifest.xml:33:9-71
-138-->[com.facebook.android:facebook-android-sdk:4.26.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\db5d3424be1ee2ca0aa4caf8b4820561\facebook-android-sdk-4.26.0\AndroidManifest.xml:33:19-68
-139        <!--
-140         The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
-141         with the application context. This config is merged in with the host app's manifest,
-142         but there can only be one provider with the same authority activated at any given
-143         point; so if the end user has two or more different apps that use Facebook SDK, only the
-144         first one will be able to use the provider. To work around this problem, we use the
-145         following placeholder in the authority to identify each host application as if it was
-146         a completely different provider.
-147        -->
-148        <provider
-148-->[com.facebook.android:facebook-android-sdk:4.26.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\db5d3424be1ee2ca0aa4caf8b4820561\facebook-android-sdk-4.26.0\AndroidManifest.xml:44:9-47:40
-149            android:name="com.facebook.internal.FacebookInitProvider"
-149-->[com.facebook.android:facebook-android-sdk:4.26.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\db5d3424be1ee2ca0aa4caf8b4820561\facebook-android-sdk-4.26.0\AndroidManifest.xml:45:13-70
-150            android:authorities="com.allerates.appforyou.FacebookInitProvider"
-150-->[com.facebook.android:facebook-android-sdk:4.26.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\db5d3424be1ee2ca0aa4caf8b4820561\facebook-android-sdk-4.26.0\AndroidManifest.xml:46:13-72
-151            android:exported="false" />
-151-->[com.facebook.android:facebook-android-sdk:4.26.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\db5d3424be1ee2ca0aa4caf8b4820561\facebook-android-sdk-4.26.0\AndroidManifest.xml:47:13-37
-152
-153        <receiver android:name="com.google.android.gms.cast.framework.media.MediaIntentReceiver" />
-153-->[com.google.android.gms:play-services-cast-framework:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\693786a5481170f7e6dbb6b4a22e511e\play-services-cast-framework-11.8.0\AndroidManifest.xml:8:9-100
-153-->[com.google.android.gms:play-services-cast-framework:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\693786a5481170f7e6dbb6b4a22e511e\play-services-cast-framework-11.8.0\AndroidManifest.xml:8:19-97
-154
-155        <service android:name="com.google.android.gms.cast.framework.media.MediaNotificationService" />
-155-->[com.google.android.gms:play-services-cast-framework:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\693786a5481170f7e6dbb6b4a22e511e\play-services-cast-framework-11.8.0\AndroidManifest.xml:10:9-104
-155-->[com.google.android.gms:play-services-cast-framework:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\693786a5481170f7e6dbb6b4a22e511e\play-services-cast-framework-11.8.0\AndroidManifest.xml:10:18-101
-156        <service android:name="com.google.android.gms.cast.framework.ReconnectionService" />
-156-->[com.google.android.gms:play-services-cast-framework:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\693786a5481170f7e6dbb6b4a22e511e\play-services-cast-framework-11.8.0\AndroidManifest.xml:11:9-93
-156-->[com.google.android.gms:play-services-cast-framework:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\693786a5481170f7e6dbb6b4a22e511e\play-services-cast-framework-11.8.0\AndroidManifest.xml:11:18-90
+136        <activity android:name="com.allerates.appforyou.activities.PasswordRecoveryActivity" />
+136-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:117:9-73
+136-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:117:19-70
+137        <activity android:name="com.allerates.appforyou.activities.UpdatePasswordActivity" />
+137-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:118:9-71
+137-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:118:19-68
+138        <activity
+138-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:119:9-120:35
+139            android:name="com.allerates.appforyou.activities.CourseActivity"
+139-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:119:19-60
+140            android:title="Курс" />
+140-->C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:120:13-33
+141        <activity android:name="com.facebook.CustomTabMainActivity" />
+141-->[com.facebook.android:facebook-android-sdk:4.26.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\db5d3424be1ee2ca0aa4caf8b4820561\facebook-android-sdk-4.26.0\AndroidManifest.xml:33:9-71
+141-->[com.facebook.android:facebook-android-sdk:4.26.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\db5d3424be1ee2ca0aa4caf8b4820561\facebook-android-sdk-4.26.0\AndroidManifest.xml:33:19-68
+142        <!--
+143         The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
+144         with the application context. This config is merged in with the host app's manifest,
+145         but there can only be one provider with the same authority activated at any given
+146         point; so if the end user has two or more different apps that use Facebook SDK, only the
+147         first one will be able to use the provider. To work around this problem, we use the
+148         following placeholder in the authority to identify each host application as if it was
+149         a completely different provider.
+150        -->
+151        <provider
+151-->[com.facebook.android:facebook-android-sdk:4.26.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\db5d3424be1ee2ca0aa4caf8b4820561\facebook-android-sdk-4.26.0\AndroidManifest.xml:44:9-47:40
+152            android:name="com.facebook.internal.FacebookInitProvider"
+152-->[com.facebook.android:facebook-android-sdk:4.26.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\db5d3424be1ee2ca0aa4caf8b4820561\facebook-android-sdk-4.26.0\AndroidManifest.xml:45:13-70
+153            android:authorities="com.allerates.appforyou.FacebookInitProvider"
+153-->[com.facebook.android:facebook-android-sdk:4.26.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\db5d3424be1ee2ca0aa4caf8b4820561\facebook-android-sdk-4.26.0\AndroidManifest.xml:46:13-72
+154            android:exported="false" />
+154-->[com.facebook.android:facebook-android-sdk:4.26.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\db5d3424be1ee2ca0aa4caf8b4820561\facebook-android-sdk-4.26.0\AndroidManifest.xml:47:13-37
+155
+156        <receiver android:name="com.google.android.gms.cast.framework.media.MediaIntentReceiver" />
+156-->[com.google.android.gms:play-services-cast-framework:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\693786a5481170f7e6dbb6b4a22e511e\play-services-cast-framework-11.8.0\AndroidManifest.xml:8:9-100
+156-->[com.google.android.gms:play-services-cast-framework:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\693786a5481170f7e6dbb6b4a22e511e\play-services-cast-framework-11.8.0\AndroidManifest.xml:8:19-97
 157
-158        <activity
-158-->[com.google.firebase:firebase-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\cb9a1e63de1d57cfc04ba79454ea4eac\firebase-auth-11.8.0\AndroidManifest.xml:23:9-29:75
-159            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
-159-->[com.google.firebase:firebase-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\cb9a1e63de1d57cfc04ba79454ea4eac\firebase-auth-11.8.0\AndroidManifest.xml:24:13-85
-160            android:excludeFromRecents="true"
-160-->[com.google.firebase:firebase-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\cb9a1e63de1d57cfc04ba79454ea4eac\firebase-auth-11.8.0\AndroidManifest.xml:25:13-46
-161            android:exported="true"
-161-->[com.google.firebase:firebase-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\cb9a1e63de1d57cfc04ba79454ea4eac\firebase-auth-11.8.0\AndroidManifest.xml:26:13-36
-162            android:launchMode="singleInstance"
-162-->[com.google.firebase:firebase-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\cb9a1e63de1d57cfc04ba79454ea4eac\firebase-auth-11.8.0\AndroidManifest.xml:27:13-48
-163            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
-163-->[com.google.firebase:firebase-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\cb9a1e63de1d57cfc04ba79454ea4eac\firebase-auth-11.8.0\AndroidManifest.xml:28:13-102
-164            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-164-->[com.google.firebase:firebase-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\cb9a1e63de1d57cfc04ba79454ea4eac\firebase-auth-11.8.0\AndroidManifest.xml:29:13-72
-165        <activity
-165-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ca4086168698bf46df2572dc16cbe41c\play-services-auth-11.8.0\AndroidManifest.xml:23:9-27:75
-166            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
-166-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ca4086168698bf46df2572dc16cbe41c\play-services-auth-11.8.0\AndroidManifest.xml:24:13-93
-167            android:excludeFromRecents="true"
-167-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ca4086168698bf46df2572dc16cbe41c\play-services-auth-11.8.0\AndroidManifest.xml:25:13-46
-168            android:exported="false"
-168-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ca4086168698bf46df2572dc16cbe41c\play-services-auth-11.8.0\AndroidManifest.xml:26:13-37
-169            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-169-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ca4086168698bf46df2572dc16cbe41c\play-services-auth-11.8.0\AndroidManifest.xml:27:13-72
-170        <!--
-171            Service handling Google Sign-In user revocation. For apps that do not integrate with
-172            Google Sign-In, this service will never be started.
-173        -->
-174        <service
-174-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ca4086168698bf46df2572dc16cbe41c\play-services-auth-11.8.0\AndroidManifest.xml:33:9-36:110
-175            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
-175-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ca4086168698bf46df2572dc16cbe41c\play-services-auth-11.8.0\AndroidManifest.xml:34:13-89
-176            android:exported="true"
-176-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ca4086168698bf46df2572dc16cbe41c\play-services-auth-11.8.0\AndroidManifest.xml:35:13-36
-177            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
-177-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ca4086168698bf46df2572dc16cbe41c\play-services-auth-11.8.0\AndroidManifest.xml:36:13-107
-178        <service
-178-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:27:9-30:40
-179            android:name="com.google.android.gms.tagmanager.TagManagerService"
-179-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:28:13-79
-180            android:enabled="true"
-180-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:29:13-35
-181            android:exported="false" />
-181-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:30:13-37
-182
-183        <activity
-183-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:32:9-44:20
-184            android:name="com.google.android.gms.tagmanager.TagManagerPreviewActivity"
-184-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:33:13-87
-185            android:exported="true"
-185-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:34:13-36
-186            android:noHistory="true" > <!-- optional, removes the previewActivity from the activity stack. -->
-186-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:35:13-37
-187            <intent-filter>
-187-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:36:13-43:29
-188                <data android:scheme="tagmanager.c.com.allerates.appforyou" />
-188-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:37:17-72
-188-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:37:23-69
-189
-190                <action android:name="android.intent.action.VIEW" />
-190-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:39:17-69
-190-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:39:25-66
-191
-192                <category android:name="android.intent.category.DEFAULT" />
-192-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:41:17-76
-192-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:41:27-73
-193                <category android:name="android.intent.category.BROWSABLE" />
-193-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:42:17-78
-193-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:42:27-75
-194            </intent-filter>
-195        </activity>
-196
-197        <receiver
-197-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:28:9-32:20
-198            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
-198-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:29:13-85
-199            android:enabled="true"
-199-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:30:13-35
-200            android:exported="false" >
-200-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:31:13-37
-201        </receiver>
-202        <receiver
-202-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:33:9-41:20
-203            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
-203-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:34:13-100
-204            android:enabled="true"
-204-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:35:13-35
-205            android:exported="true"
-205-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:36:13-36
-206            android:permission="android.permission.INSTALL_PACKAGES" >
-206-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:37:13-69
-207            <intent-filter>
-207-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:38:13-40:29
-208                <action android:name="com.android.vending.INSTALL_REFERRER" />
-208-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:39:17-79
-208-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:39:25-76
-209            </intent-filter>
-210        </receiver>
-211
-212        <service
-212-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:43:9-46:40
-213            android:name="com.google.android.gms.measurement.AppMeasurementService"
-213-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:44:13-84
-214            android:enabled="true"
-214-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:45:13-35
-215            android:exported="false" />
-215-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:46:13-37
-216        <service
-216-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:47:9-51:72
-217            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
-217-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:48:13-87
-218            android:enabled="true"
-218-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:49:13-35
-219            android:exported="false"
-219-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:50:13-37
-220            android:permission="android.permission.BIND_JOB_SERVICE" />
-220-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:51:13-69
-221
-222        <receiver
-222-->[com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\f5c832a88810456f25dd8380599685a7\play-services-analytics-11.8.0\AndroidManifest.xml:30:9-34:20
-223            android:name="com.google.android.gms.analytics.AnalyticsReceiver"
-223-->[com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\f5c832a88810456f25dd8380599685a7\play-services-analytics-11.8.0\AndroidManifest.xml:31:13-78
-224            android:enabled="true"
-224-->[com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\f5c832a88810456f25dd8380599685a7\play-services-analytics-11.8.0\AndroidManifest.xml:32:13-35
-225            android:exported="false" >
-225-->[com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\f5c832a88810456f25dd8380599685a7\play-services-analytics-11.8.0\AndroidManifest.xml:33:13-37
-226        </receiver>
-227
-228        <service
-228-->[com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\f5c832a88810456f25dd8380599685a7\play-services-analytics-11.8.0\AndroidManifest.xml:36:9-39:40
-229            android:name="com.google.android.gms.analytics.AnalyticsService"
-229-->[com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\f5c832a88810456f25dd8380599685a7\play-services-analytics-11.8.0\AndroidManifest.xml:37:13-77
-230            android:enabled="true"
-230-->[com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\f5c832a88810456f25dd8380599685a7\play-services-analytics-11.8.0\AndroidManifest.xml:38:13-35
-231            android:exported="false" />
-231-->[com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\f5c832a88810456f25dd8380599685a7\play-services-analytics-11.8.0\AndroidManifest.xml:39:13-37
-232        <service
-232-->[com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\f5c832a88810456f25dd8380599685a7\play-services-analytics-11.8.0\AndroidManifest.xml:40:9-44:72
-233            android:name="com.google.android.gms.analytics.AnalyticsJobService"
-233-->[com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\f5c832a88810456f25dd8380599685a7\play-services-analytics-11.8.0\AndroidManifest.xml:41:13-80
-234            android:enabled="true"
-234-->[com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\f5c832a88810456f25dd8380599685a7\play-services-analytics-11.8.0\AndroidManifest.xml:42:13-35
-235            android:exported="false"
-235-->[com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\f5c832a88810456f25dd8380599685a7\play-services-analytics-11.8.0\AndroidManifest.xml:43:13-37
-236            android:permission="android.permission.BIND_JOB_SERVICE" />
-236-->[com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\f5c832a88810456f25dd8380599685a7\play-services-analytics-11.8.0\AndroidManifest.xml:44:13-69
-237
-238        <activity
-238-->[com.google.android.gms:play-services-appinvite:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ec17ff5414428dd4791a062d6f7d2d78\play-services-appinvite-11.8.0\AndroidManifest.xml:25:9-34:20
-239            android:name="com.google.android.gms.appinvite.PreviewActivity"
-239-->[com.google.android.gms:play-services-appinvite:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ec17ff5414428dd4791a062d6f7d2d78\play-services-appinvite-11.8.0\AndroidManifest.xml:26:13-76
-240            android:exported="true"
-240-->[com.google.android.gms:play-services-appinvite:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ec17ff5414428dd4791a062d6f7d2d78\play-services-appinvite-11.8.0\AndroidManifest.xml:27:13-36
-241            android:theme="@style/Theme.AppInvite.Preview" >
-241-->[com.google.android.gms:play-services-appinvite:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ec17ff5414428dd4791a062d6f7d2d78\play-services-appinvite-11.8.0\AndroidManifest.xml:28:13-59
-242            <intent-filter>
-242-->[com.google.android.gms:play-services-appinvite:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ec17ff5414428dd4791a062d6f7d2d78\play-services-appinvite-11.8.0\AndroidManifest.xml:29:13-33:29
-243                <action android:name="com.google.android.gms.appinvite.ACTION_PREVIEW" />
-243-->[com.google.android.gms:play-services-appinvite:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ec17ff5414428dd4791a062d6f7d2d78\play-services-appinvite-11.8.0\AndroidManifest.xml:30:17-90
-243-->[com.google.android.gms:play-services-appinvite:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ec17ff5414428dd4791a062d6f7d2d78\play-services-appinvite-11.8.0\AndroidManifest.xml:30:25-87
-244
-245                <category android:name="android.intent.category.DEFAULT" />
-245-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:41:17-76
-245-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:41:27-73
-246            </intent-filter>
-247        </activity>
-248        <activity
-248-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\389ea305a2bf0cb7b0d3f5ed0d8769d7\play-services-base-11.8.0\AndroidManifest.xml:23:9-26:75
-249            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-249-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\389ea305a2bf0cb7b0d3f5ed0d8769d7\play-services-base-11.8.0\AndroidManifest.xml:24:13-79
-250            android:exported="false"
-250-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\389ea305a2bf0cb7b0d3f5ed0d8769d7\play-services-base-11.8.0\AndroidManifest.xml:25:13-37
-251            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-251-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\389ea305a2bf0cb7b0d3f5ed0d8769d7\play-services-base-11.8.0\AndroidManifest.xml:26:13-72
-252        <!--
-253             FirebaseMessagingService performs security checks at runtime,
-254             no need for explicit permissions despite exported="true"
-255        -->
-256        <service
-256-->[com.google.firebase:firebase-messaging:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\a0901d63b77c8519400d46eb367305b9\firebase-messaging-11.8.0\AndroidManifest.xml:28:9-34:19
-257            android:name="com.google.firebase.messaging.FirebaseMessagingService"
-257-->[com.google.firebase:firebase-messaging:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\a0901d63b77c8519400d46eb367305b9\firebase-messaging-11.8.0\AndroidManifest.xml:29:13-82
-258            android:exported="true" >
-258-->[com.google.firebase:firebase-messaging:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\a0901d63b77c8519400d46eb367305b9\firebase-messaging-11.8.0\AndroidManifest.xml:30:13-36
-259            <intent-filter android:priority="-500" >
-259-->[com.google.firebase:firebase-messaging:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\a0901d63b77c8519400d46eb367305b9\firebase-messaging-11.8.0\AndroidManifest.xml:31:13-33:29
-259-->[com.google.firebase:firebase-messaging:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\a0901d63b77c8519400d46eb367305b9\firebase-messaging-11.8.0\AndroidManifest.xml:31:28-51
-260                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-260-->[com.google.firebase:firebase-messaging:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\a0901d63b77c8519400d46eb367305b9\firebase-messaging-11.8.0\AndroidManifest.xml:32:17-78
-260-->[com.google.firebase:firebase-messaging:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\a0901d63b77c8519400d46eb367305b9\firebase-messaging-11.8.0\AndroidManifest.xml:32:25-75
-261            </intent-filter>
-262        </service>
-263
-264        <receiver
-264-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:35:9-44:20
-265            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
-265-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:36:13-78
-266            android:exported="true"
-266-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:37:13-36
-267            android:permission="com.google.android.c2dm.permission.SEND" >
-267-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:38:13-73
-268            <intent-filter>
-268-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:39:13-43:29
-269                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-269-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:40:17-81
-269-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:40:25-78
-270
-271                <category android:name="com.allerates.appforyou" />
-271-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:42:17-61
-271-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:42:27-58
-272            </intent-filter>
-273        </receiver>
-274        <!--
-275             FirebaseInstanceIdService performs security checks at runtime,
-276             no need for explicit permissions despite exported="true"
-277        -->
-278        <service
-278-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:50:9-56:19
-279            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
-279-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:51:13-77
-280            android:exported="true" >
-280-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:52:13-36
-281            <intent-filter android:priority="-500" >
-281-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:53:13-55:29
-281-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:53:28-51
-282                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
-282-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:54:17-80
-282-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:54:25-77
-283            </intent-filter>
-284        </service>
-285
-286        <provider
-286-->[com.google.firebase:firebase-common:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\c0f4fba04414e4d64d895a5f7a8fccdb\firebase-common-11.8.0\AndroidManifest.xml:8:9-12:39
-287            android:name="com.google.firebase.provider.FirebaseInitProvider"
-287-->[com.google.firebase:firebase-common:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\c0f4fba04414e4d64d895a5f7a8fccdb\firebase-common-11.8.0\AndroidManifest.xml:9:13-77
-288            android:authorities="com.allerates.appforyou.firebaseinitprovider"
-288-->[com.google.firebase:firebase-common:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\c0f4fba04414e4d64d895a5f7a8fccdb\firebase-common-11.8.0\AndroidManifest.xml:10:13-72
-289            android:exported="false"
-289-->[com.google.firebase:firebase-common:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\c0f4fba04414e4d64d895a5f7a8fccdb\firebase-common-11.8.0\AndroidManifest.xml:11:13-37
-290            android:initOrder="100" /> <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
-290-->[com.google.firebase:firebase-common:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\c0f4fba04414e4d64d895a5f7a8fccdb\firebase-common-11.8.0\AndroidManifest.xml:12:13-36
-291        <activity
-291-->[com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\bf400e9b2e8115f266f119abddd42945\play-services-ads-lite-11.8.0\AndroidManifest.xml:29:9-33:64
-292            android:name="com.google.android.gms.ads.AdActivity"
-292-->[com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\bf400e9b2e8115f266f119abddd42945\play-services-ads-lite-11.8.0\AndroidManifest.xml:30:13-65
-293            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
-293-->[com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\bf400e9b2e8115f266f119abddd42945\play-services-ads-lite-11.8.0\AndroidManifest.xml:31:13-122
-294            android:exported="false"
-294-->[com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\bf400e9b2e8115f266f119abddd42945\play-services-ads-lite-11.8.0\AndroidManifest.xml:32:13-37
-295            android:theme="@android:style/Theme.Translucent" />
-295-->[com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\bf400e9b2e8115f266f119abddd42945\play-services-ads-lite-11.8.0\AndroidManifest.xml:33:13-61
-296    </application>
-297
-298</manifest>
+158        <service android:name="com.google.android.gms.cast.framework.media.MediaNotificationService" />
+158-->[com.google.android.gms:play-services-cast-framework:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\693786a5481170f7e6dbb6b4a22e511e\play-services-cast-framework-11.8.0\AndroidManifest.xml:10:9-104
+158-->[com.google.android.gms:play-services-cast-framework:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\693786a5481170f7e6dbb6b4a22e511e\play-services-cast-framework-11.8.0\AndroidManifest.xml:10:18-101
+159        <service android:name="com.google.android.gms.cast.framework.ReconnectionService" />
+159-->[com.google.android.gms:play-services-cast-framework:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\693786a5481170f7e6dbb6b4a22e511e\play-services-cast-framework-11.8.0\AndroidManifest.xml:11:9-93
+159-->[com.google.android.gms:play-services-cast-framework:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\693786a5481170f7e6dbb6b4a22e511e\play-services-cast-framework-11.8.0\AndroidManifest.xml:11:18-90
+160
+161        <activity
+161-->[com.google.firebase:firebase-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\cb9a1e63de1d57cfc04ba79454ea4eac\firebase-auth-11.8.0\AndroidManifest.xml:23:9-29:75
+162            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+162-->[com.google.firebase:firebase-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\cb9a1e63de1d57cfc04ba79454ea4eac\firebase-auth-11.8.0\AndroidManifest.xml:24:13-85
+163            android:excludeFromRecents="true"
+163-->[com.google.firebase:firebase-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\cb9a1e63de1d57cfc04ba79454ea4eac\firebase-auth-11.8.0\AndroidManifest.xml:25:13-46
+164            android:exported="true"
+164-->[com.google.firebase:firebase-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\cb9a1e63de1d57cfc04ba79454ea4eac\firebase-auth-11.8.0\AndroidManifest.xml:26:13-36
+165            android:launchMode="singleInstance"
+165-->[com.google.firebase:firebase-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\cb9a1e63de1d57cfc04ba79454ea4eac\firebase-auth-11.8.0\AndroidManifest.xml:27:13-48
+166            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+166-->[com.google.firebase:firebase-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\cb9a1e63de1d57cfc04ba79454ea4eac\firebase-auth-11.8.0\AndroidManifest.xml:28:13-102
+167            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+167-->[com.google.firebase:firebase-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\cb9a1e63de1d57cfc04ba79454ea4eac\firebase-auth-11.8.0\AndroidManifest.xml:29:13-72
+168        <activity
+168-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ca4086168698bf46df2572dc16cbe41c\play-services-auth-11.8.0\AndroidManifest.xml:23:9-27:75
+169            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+169-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ca4086168698bf46df2572dc16cbe41c\play-services-auth-11.8.0\AndroidManifest.xml:24:13-93
+170            android:excludeFromRecents="true"
+170-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ca4086168698bf46df2572dc16cbe41c\play-services-auth-11.8.0\AndroidManifest.xml:25:13-46
+171            android:exported="false"
+171-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ca4086168698bf46df2572dc16cbe41c\play-services-auth-11.8.0\AndroidManifest.xml:26:13-37
+172            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+172-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ca4086168698bf46df2572dc16cbe41c\play-services-auth-11.8.0\AndroidManifest.xml:27:13-72
+173        <!--
+174            Service handling Google Sign-In user revocation. For apps that do not integrate with
+175            Google Sign-In, this service will never be started.
+176        -->
+177        <service
+177-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ca4086168698bf46df2572dc16cbe41c\play-services-auth-11.8.0\AndroidManifest.xml:33:9-36:110
+178            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+178-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ca4086168698bf46df2572dc16cbe41c\play-services-auth-11.8.0\AndroidManifest.xml:34:13-89
+179            android:exported="true"
+179-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ca4086168698bf46df2572dc16cbe41c\play-services-auth-11.8.0\AndroidManifest.xml:35:13-36
+180            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+180-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ca4086168698bf46df2572dc16cbe41c\play-services-auth-11.8.0\AndroidManifest.xml:36:13-107
+181        <service
+181-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:27:9-30:40
+182            android:name="com.google.android.gms.tagmanager.TagManagerService"
+182-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:28:13-79
+183            android:enabled="true"
+183-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:29:13-35
+184            android:exported="false" />
+184-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:30:13-37
+185
+186        <activity
+186-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:32:9-44:20
+187            android:name="com.google.android.gms.tagmanager.TagManagerPreviewActivity"
+187-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:33:13-87
+188            android:exported="true"
+188-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:34:13-36
+189            android:noHistory="true" > <!-- optional, removes the previewActivity from the activity stack. -->
+189-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:35:13-37
+190            <intent-filter>
+190-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:36:13-43:29
+191                <data android:scheme="tagmanager.c.com.allerates.appforyou" />
+191-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:37:17-72
+191-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:37:23-69
+192
+193                <action android:name="android.intent.action.VIEW" />
+193-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:39:17-69
+193-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:39:25-66
+194
+195                <category android:name="android.intent.category.DEFAULT" />
+195-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:41:17-76
+195-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:41:27-73
+196                <category android:name="android.intent.category.BROWSABLE" />
+196-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:42:17-78
+196-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:42:27-75
+197            </intent-filter>
+198        </activity>
+199
+200        <receiver
+200-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:28:9-32:20
+201            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+201-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:29:13-85
+202            android:enabled="true"
+202-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:30:13-35
+203            android:exported="false" >
+203-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:31:13-37
+204        </receiver>
+205        <receiver
+205-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:33:9-41:20
+206            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+206-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:34:13-100
+207            android:enabled="true"
+207-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:35:13-35
+208            android:exported="true"
+208-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:36:13-36
+209            android:permission="android.permission.INSTALL_PACKAGES" >
+209-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:37:13-69
+210            <intent-filter>
+210-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:38:13-40:29
+211                <action android:name="com.android.vending.INSTALL_REFERRER" />
+211-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:39:17-79
+211-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:39:25-76
+212            </intent-filter>
+213        </receiver>
+214
+215        <service
+215-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:43:9-46:40
+216            android:name="com.google.android.gms.measurement.AppMeasurementService"
+216-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:44:13-84
+217            android:enabled="true"
+217-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:45:13-35
+218            android:exported="false" />
+218-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:46:13-37
+219        <service
+219-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:47:9-51:72
+220            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+220-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:48:13-87
+221            android:enabled="true"
+221-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:49:13-35
+222            android:exported="false"
+222-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:50:13-37
+223            android:permission="android.permission.BIND_JOB_SERVICE" />
+223-->[com.google.firebase:firebase-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\07ff688a9ba9d5e2c699171549a880ee\firebase-analytics-11.8.0\AndroidManifest.xml:51:13-69
+224
+225        <receiver
+225-->[com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\f5c832a88810456f25dd8380599685a7\play-services-analytics-11.8.0\AndroidManifest.xml:30:9-34:20
+226            android:name="com.google.android.gms.analytics.AnalyticsReceiver"
+226-->[com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\f5c832a88810456f25dd8380599685a7\play-services-analytics-11.8.0\AndroidManifest.xml:31:13-78
+227            android:enabled="true"
+227-->[com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\f5c832a88810456f25dd8380599685a7\play-services-analytics-11.8.0\AndroidManifest.xml:32:13-35
+228            android:exported="false" >
+228-->[com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\f5c832a88810456f25dd8380599685a7\play-services-analytics-11.8.0\AndroidManifest.xml:33:13-37
+229        </receiver>
+230
+231        <service
+231-->[com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\f5c832a88810456f25dd8380599685a7\play-services-analytics-11.8.0\AndroidManifest.xml:36:9-39:40
+232            android:name="com.google.android.gms.analytics.AnalyticsService"
+232-->[com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\f5c832a88810456f25dd8380599685a7\play-services-analytics-11.8.0\AndroidManifest.xml:37:13-77
+233            android:enabled="true"
+233-->[com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\f5c832a88810456f25dd8380599685a7\play-services-analytics-11.8.0\AndroidManifest.xml:38:13-35
+234            android:exported="false" />
+234-->[com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\f5c832a88810456f25dd8380599685a7\play-services-analytics-11.8.0\AndroidManifest.xml:39:13-37
+235        <service
+235-->[com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\f5c832a88810456f25dd8380599685a7\play-services-analytics-11.8.0\AndroidManifest.xml:40:9-44:72
+236            android:name="com.google.android.gms.analytics.AnalyticsJobService"
+236-->[com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\f5c832a88810456f25dd8380599685a7\play-services-analytics-11.8.0\AndroidManifest.xml:41:13-80
+237            android:enabled="true"
+237-->[com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\f5c832a88810456f25dd8380599685a7\play-services-analytics-11.8.0\AndroidManifest.xml:42:13-35
+238            android:exported="false"
+238-->[com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\f5c832a88810456f25dd8380599685a7\play-services-analytics-11.8.0\AndroidManifest.xml:43:13-37
+239            android:permission="android.permission.BIND_JOB_SERVICE" />
+239-->[com.google.android.gms:play-services-analytics:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\f5c832a88810456f25dd8380599685a7\play-services-analytics-11.8.0\AndroidManifest.xml:44:13-69
+240
+241        <activity
+241-->[com.google.android.gms:play-services-appinvite:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ec17ff5414428dd4791a062d6f7d2d78\play-services-appinvite-11.8.0\AndroidManifest.xml:25:9-34:20
+242            android:name="com.google.android.gms.appinvite.PreviewActivity"
+242-->[com.google.android.gms:play-services-appinvite:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ec17ff5414428dd4791a062d6f7d2d78\play-services-appinvite-11.8.0\AndroidManifest.xml:26:13-76
+243            android:exported="true"
+243-->[com.google.android.gms:play-services-appinvite:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ec17ff5414428dd4791a062d6f7d2d78\play-services-appinvite-11.8.0\AndroidManifest.xml:27:13-36
+244            android:theme="@style/Theme.AppInvite.Preview" >
+244-->[com.google.android.gms:play-services-appinvite:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ec17ff5414428dd4791a062d6f7d2d78\play-services-appinvite-11.8.0\AndroidManifest.xml:28:13-59
+245            <intent-filter>
+245-->[com.google.android.gms:play-services-appinvite:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ec17ff5414428dd4791a062d6f7d2d78\play-services-appinvite-11.8.0\AndroidManifest.xml:29:13-33:29
+246                <action android:name="com.google.android.gms.appinvite.ACTION_PREVIEW" />
+246-->[com.google.android.gms:play-services-appinvite:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ec17ff5414428dd4791a062d6f7d2d78\play-services-appinvite-11.8.0\AndroidManifest.xml:30:17-90
+246-->[com.google.android.gms:play-services-appinvite:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ec17ff5414428dd4791a062d6f7d2d78\play-services-appinvite-11.8.0\AndroidManifest.xml:30:25-87
+247
+248                <category android:name="android.intent.category.DEFAULT" />
+248-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:41:17-76
+248-->[com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:41:27-73
+249            </intent-filter>
+250        </activity>
+251        <activity
+251-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\389ea305a2bf0cb7b0d3f5ed0d8769d7\play-services-base-11.8.0\AndroidManifest.xml:23:9-26:75
+252            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+252-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\389ea305a2bf0cb7b0d3f5ed0d8769d7\play-services-base-11.8.0\AndroidManifest.xml:24:13-79
+253            android:exported="false"
+253-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\389ea305a2bf0cb7b0d3f5ed0d8769d7\play-services-base-11.8.0\AndroidManifest.xml:25:13-37
+254            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+254-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\389ea305a2bf0cb7b0d3f5ed0d8769d7\play-services-base-11.8.0\AndroidManifest.xml:26:13-72
+255        <!--
+256             FirebaseMessagingService performs security checks at runtime,
+257             no need for explicit permissions despite exported="true"
+258        -->
+259        <service
+259-->[com.google.firebase:firebase-messaging:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\a0901d63b77c8519400d46eb367305b9\firebase-messaging-11.8.0\AndroidManifest.xml:28:9-34:19
+260            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+260-->[com.google.firebase:firebase-messaging:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\a0901d63b77c8519400d46eb367305b9\firebase-messaging-11.8.0\AndroidManifest.xml:29:13-82
+261            android:exported="true" >
+261-->[com.google.firebase:firebase-messaging:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\a0901d63b77c8519400d46eb367305b9\firebase-messaging-11.8.0\AndroidManifest.xml:30:13-36
+262            <intent-filter android:priority="-500" >
+262-->[com.google.firebase:firebase-messaging:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\a0901d63b77c8519400d46eb367305b9\firebase-messaging-11.8.0\AndroidManifest.xml:31:13-33:29
+262-->[com.google.firebase:firebase-messaging:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\a0901d63b77c8519400d46eb367305b9\firebase-messaging-11.8.0\AndroidManifest.xml:31:28-51
+263                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+263-->[com.google.firebase:firebase-messaging:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\a0901d63b77c8519400d46eb367305b9\firebase-messaging-11.8.0\AndroidManifest.xml:32:17-78
+263-->[com.google.firebase:firebase-messaging:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\a0901d63b77c8519400d46eb367305b9\firebase-messaging-11.8.0\AndroidManifest.xml:32:25-75
+264            </intent-filter>
+265        </service>
+266
+267        <receiver
+267-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:35:9-44:20
+268            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+268-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:36:13-78
+269            android:exported="true"
+269-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:37:13-36
+270            android:permission="com.google.android.c2dm.permission.SEND" >
+270-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:38:13-73
+271            <intent-filter>
+271-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:39:13-43:29
+272                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+272-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:40:17-81
+272-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:40:25-78
+273
+274                <category android:name="com.allerates.appforyou" />
+274-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:42:17-61
+274-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:42:27-58
+275            </intent-filter>
+276        </receiver>
+277        <!--
+278             FirebaseInstanceIdService performs security checks at runtime,
+279             no need for explicit permissions despite exported="true"
+280        -->
+281        <service
+281-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:50:9-56:19
+282            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+282-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:51:13-77
+283            android:exported="true" >
+283-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:52:13-36
+284            <intent-filter android:priority="-500" >
+284-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:53:13-55:29
+284-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:53:28-51
+285                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+285-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:54:17-80
+285-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\67fb15211920856290e804900acb40ef\firebase-iid-11.8.0\AndroidManifest.xml:54:25-77
+286            </intent-filter>
+287        </service>
+288
+289        <provider
+289-->[com.google.firebase:firebase-common:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\c0f4fba04414e4d64d895a5f7a8fccdb\firebase-common-11.8.0\AndroidManifest.xml:8:9-12:39
+290            android:name="com.google.firebase.provider.FirebaseInitProvider"
+290-->[com.google.firebase:firebase-common:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\c0f4fba04414e4d64d895a5f7a8fccdb\firebase-common-11.8.0\AndroidManifest.xml:9:13-77
+291            android:authorities="com.allerates.appforyou.firebaseinitprovider"
+291-->[com.google.firebase:firebase-common:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\c0f4fba04414e4d64d895a5f7a8fccdb\firebase-common-11.8.0\AndroidManifest.xml:10:13-72
+292            android:exported="false"
+292-->[com.google.firebase:firebase-common:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\c0f4fba04414e4d64d895a5f7a8fccdb\firebase-common-11.8.0\AndroidManifest.xml:11:13-37
+293            android:initOrder="100" /> <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+293-->[com.google.firebase:firebase-common:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\c0f4fba04414e4d64d895a5f7a8fccdb\firebase-common-11.8.0\AndroidManifest.xml:12:13-36
+294        <activity
+294-->[com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\bf400e9b2e8115f266f119abddd42945\play-services-ads-lite-11.8.0\AndroidManifest.xml:29:9-33:64
+295            android:name="com.google.android.gms.ads.AdActivity"
+295-->[com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\bf400e9b2e8115f266f119abddd42945\play-services-ads-lite-11.8.0\AndroidManifest.xml:30:13-65
+296            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+296-->[com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\bf400e9b2e8115f266f119abddd42945\play-services-ads-lite-11.8.0\AndroidManifest.xml:31:13-122
+297            android:exported="false"
+297-->[com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\bf400e9b2e8115f266f119abddd42945\play-services-ads-lite-11.8.0\AndroidManifest.xml:32:13-37
+298            android:theme="@android:style/Theme.Translucent" />
+298-->[com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\bf400e9b2e8115f266f119abddd42945\play-services-ads-lite-11.8.0\AndroidManifest.xml:33:13-61
+299    </application>
+300
+301</manifest>

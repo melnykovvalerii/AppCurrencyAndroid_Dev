@@ -114,8 +114,10 @@
 
             android:name=".activities.ShowListCommendActivity" />
         <activity android:name=".activities.ConfirmMailActivity" />
-        <activity android:name=".activities.PasswordRecognitionActivity" />
-        <activity android:name=".activities.ActivitySetPassword" />
+        <activity android:name=".activities.PasswordRecoveryActivity" />
+        <activity android:name=".activities.UpdatePasswordActivity" />
+        <activity android:name=".activities.CourseActivity"
+            android:title="Курс"/>
     </application>
 
 </manifest>

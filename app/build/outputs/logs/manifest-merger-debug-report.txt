@@ -1,14 +1,17 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:2:1-121:12
-INJECTED from C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:2:1-121:12
-INJECTED from C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:2:1-121:12
-INJECTED from C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:2:1-121:12
+ADDED from C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:2:1-123:12
+INJECTED from C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:2:1-123:12
+INJECTED from C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:2:1-123:12
+INJECTED from C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:2:1-123:12
 MERGED from [io.realm:realm-android-library:3.1.4] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\e2003518214e8b0687e93f19dd80e4f0\realm-android-library-3.1.4\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:design:27.1.1] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\285c528b8b8331a09c4c6fce76d7218d\design-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\aca53b958ca432129c9cdc7c339f0841\firebase-core-11.8.0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\8159f244297c1fad4100322063cf05f7\constraint-layout-1.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.afollestad:rxkprefs:1.2.5] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ae416f978d7709a99ff574406755695e\rxkprefs-1.2.5\AndroidManifest.xml:2:1-13:12
 MERGED from [com.facebook.android:facebook-android-sdk:4.26.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\db5d3424be1ee2ca0aa4caf8b4820561\facebook-android-sdk-4.26.0\AndroidManifest.xml:21:1-50:12
 MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\c888896d125ae479ab077ab2c81b7d88\cardview-v7-27.1.1\AndroidManifest.xml:17:1-22:12
 MERGED from [com.jaredrummler:material-spinner:1.1.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\72260546331d793fef9fce54ff3be467\material-spinner-1.1.0\AndroidManifest.xml:18:1-25:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\285c528b8b8331a09c4c6fce76d7218d\design-27.1.1\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ffb0495d039cca7b5123a01841674164\recyclerview-v7-27.1.1\AndroidManifest.xml:17:1-22:12
 MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\f780a8b7c0a4be0a976e322e71345594\butterknife-8.8.1\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.gms:play-services:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\998f384a3715b1a25862eab45ae03f0c\play-services-11.8.0\AndroidManifest.xml:2:1-6:12
@@ -16,7 +19,6 @@ MERGED from [com.google.android.gms:play-services-cast-framework:11.8.0] C:\User
 MERGED from [com.google.android.gms:play-services-cast:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\2bec48552ba048eb6b1d81cc1c20206a\play-services-cast-11.8.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\3bf3616b018ec21f3f32a28d0b232fe9\mediarouter-v7-25.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\60766a92e10ea112e7ad716d27f62f5a\appcompat-v7-27.1.1\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:transition:27.1.1] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\065f8525334f9339038e4e2ea96beae5\transition-27.1.1\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:customtabs:25.3.1] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\6d1feb5f859dc482e0d203001a62b1e0\customtabs-25.3.1\AndroidManifest.xml:17:1-28:12
 MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\cb9a1e63de1d57cfc04ba79454ea4eac\firebase-auth-11.8.0\AndroidManifest.xml:17:1-32:12
 MERGED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ca4086168698bf46df2572dc16cbe41c\play-services-auth-11.8.0\AndroidManifest.xml:17:1-39:12
@@ -26,7 +28,6 @@ MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\Karm
 MERGED from [com.google.android.gms:play-services-places:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\5f712d8509476a557270b95319a30189\play-services-places-11.8.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-wallet:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\4cd4ec36260c28126445ad0e6228ba3a\play-services-wallet-11.8.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\cf452b49d7f369be5c94aee2370c1086\play-services-maps-11.8.0\AndroidManifest.xml:17:1-32:12
-MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\aca53b958ca432129c9cdc7c339f0841\firebase-core-11.8.0\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.firebase:firebase-crash:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\e732e4f83c40e7b62c2c42bdec4d2736\firebase-crash-11.8.0\AndroidManifest.xml:17:1-27:12
 MERGED from [com.google.android.gms:play-services-tagmanager:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\b1dd0d90286ee032324def10c8e80b95\play-services-tagmanager-11.8.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:17:1-47:12
@@ -75,10 +76,9 @@ MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Karman\.gradle
 MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\261a45e62ad0f13f7202c787024678b4\palette-v7-25.2.0\AndroidManifest.xml:17:1-25:12
 MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\5a4788930ed0e17ff2b831d20c715824\support-core-utils-27.1.1\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\a962c266f32ccabcd9a19bb88afb7ed3\support-vector-drawable-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\065f8525334f9339038e4e2ea96beae5\transition-27.1.1\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\9a39467593168f990dfcbec9d6322e88\support-media-compat-27.1.1\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\e5dda94b4031db1477cd90d8b10dedf9\support-compat-27.1.1\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\7c9dc9615eb25743361ea497f9b955cd\constraint-layout-1.1.2\AndroidManifest.xml:2:1-11:12
-MERGED from [com.afollestad:rxkprefs:1.2.5] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ae416f978d7709a99ff574406755695e\rxkprefs-1.2.5\AndroidManifest.xml:2:1-13:12
 MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\e79a191e2fc4d02bc22ad4d2af1ad01e\rxandroid-2.0.1\AndroidManifest.xml:15:1-21:12
 MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\3a78e7a13e5717c4d9497402f73a59a3\circleimageview-3.0.0\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\7568b0d893f18ddd126346a5f931f026\android-maps-utils-0.5\AndroidManifest.xml:2:1-13:12
@@ -138,22 +138,22 @@ MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] C:\Us
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\aa45a4097394a0eee776832b53a6f30b\livedata-core-1.1.0\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\eba889911c825c4d9e94f01d8c17562c\viewmodel-1.1.0\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\b503cd5d72b1f8540a7d0c374645cf22\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:2:1-121:12
-INJECTED from C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:2:1-121:12
-INJECTED from C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:2:1-121:12
+INJECTED from C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:2:1-123:12
+INJECTED from C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:2:1-123:12
+INJECTED from C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:2:1-123:12
 	package
 		ADDED from C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:4:5-38
 		INJECTED from C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:2:1-121:12
+		ADDED from C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:2:1-123:12
 		INJECTED from C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:2:1-121:12
+		ADDED from C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:2:1-123:12
 		INJECTED from C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:2:11-69
@@ -248,7 +248,13 @@ MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Karman\.
 	android:required
 		ADDED from C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:21:9-32
 application
-ADDED from C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:23:5-119:19
+ADDED from C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:23:5-121:19
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\aca53b958ca432129c9cdc7c339f0841\firebase-core-11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\aca53b958ca432129c9cdc7c339f0841\firebase-core-11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\8159f244297c1fad4100322063cf05f7\constraint-layout-1.1.0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\8159f244297c1fad4100322063cf05f7\constraint-layout-1.1.0\AndroidManifest.xml:9:5-20
+MERGED from [com.afollestad:rxkprefs:1.2.5] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ae416f978d7709a99ff574406755695e\rxkprefs-1.2.5\AndroidManifest.xml:11:5-20
+MERGED from [com.afollestad:rxkprefs:1.2.5] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ae416f978d7709a99ff574406755695e\rxkprefs-1.2.5\AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.android:facebook-android-sdk:4.26.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\db5d3424be1ee2ca0aa4caf8b4820561\facebook-android-sdk-4.26.0\AndroidManifest.xml:28:5-48:19
 MERGED from [com.facebook.android:facebook-android-sdk:4.26.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\db5d3424be1ee2ca0aa4caf8b4820561\facebook-android-sdk-4.26.0\AndroidManifest.xml:28:5-48:19
 MERGED from [com.google.android.gms:play-services:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\998f384a3715b1a25862eab45ae03f0c\play-services-11.8.0\AndroidManifest.xml:5:5-20
@@ -275,8 +281,6 @@ MERGED from [com.google.android.gms:play-services-places:11.8.0] C:\Users\Karman
 MERGED from [com.google.android.gms:play-services-places:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\5f712d8509476a557270b95319a30189\play-services-places-11.8.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\cf452b49d7f369be5c94aee2370c1086\play-services-maps-11.8.0\AndroidManifest.xml:30:5-20
 MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\cf452b49d7f369be5c94aee2370c1086\play-services-maps-11.8.0\AndroidManifest.xml:30:5-20
-MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\aca53b958ca432129c9cdc7c339f0841\firebase-core-11.8.0\AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\aca53b958ca432129c9cdc7c339f0841\firebase-core-11.8.0\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-crash:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\e732e4f83c40e7b62c2c42bdec4d2736\firebase-crash-11.8.0\AndroidManifest.xml:24:5-25:19
 MERGED from [com.google.firebase:firebase-crash:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\e732e4f83c40e7b62c2c42bdec4d2736\firebase-crash-11.8.0\AndroidManifest.xml:24:5-25:19
 MERGED from [com.google.android.gms:play-services-tagmanager-api:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\270b5ebe3ee33e3bb93fdcbebfdea337\play-services-tagmanager-api-11.8.0\AndroidManifest.xml:26:5-45:19
@@ -343,10 +347,6 @@ MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Karm
 MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\73ee7a716b632c0c6d6a917b0ec6e4c8\play-services-basement-11.8.0\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\261a45e62ad0f13f7202c787024678b4\palette-v7-25.2.0\AndroidManifest.xml:22:5-23:19
 MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\261a45e62ad0f13f7202c787024678b4\palette-v7-25.2.0\AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\7c9dc9615eb25743361ea497f9b955cd\constraint-layout-1.1.2\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\7c9dc9615eb25743361ea497f9b955cd\constraint-layout-1.1.2\AndroidManifest.xml:9:5-20
-MERGED from [com.afollestad:rxkprefs:1.2.5] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ae416f978d7709a99ff574406755695e\rxkprefs-1.2.5\AndroidManifest.xml:11:5-20
-MERGED from [com.afollestad:rxkprefs:1.2.5] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ae416f978d7709a99ff574406755695e\rxkprefs-1.2.5\AndroidManifest.xml:11:5-20
 MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\3a78e7a13e5717c4d9497402f73a59a3\circleimageview-3.0.0\AndroidManifest.xml:9:5-20
 MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\3a78e7a13e5717c4d9497402f73a59a3\circleimageview-3.0.0\AndroidManifest.xml:9:5-20
 MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\7568b0d893f18ddd126346a5f931f026\android-maps-utils-0.5\AndroidManifest.xml:7:5-11:19
@@ -639,28 +639,40 @@ activity#com.allerates.appforyou.activities.ConfirmMailActivity
 ADDED from C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:116:9-68
 	android:name
 		ADDED from C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:116:19-65
-activity#com.allerates.appforyou.activities.PasswordRecognitionActivity
-ADDED from C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:117:9-76
+activity#com.allerates.appforyou.activities.PasswordRecoveryActivity
+ADDED from C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:117:9-73
 	android:name
-		ADDED from C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:117:19-73
-activity#com.allerates.appforyou.activities.ActivitySetPassword
-ADDED from C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:118:9-68
+		ADDED from C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:117:19-70
+activity#com.allerates.appforyou.activities.UpdatePasswordActivity
+ADDED from C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:118:9-71
 	android:name
-		ADDED from C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:118:19-65
+		ADDED from C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:118:19-68
+activity#com.allerates.appforyou.activities.CourseActivity
+ADDED from C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:119:9-120:35
+	android:title
+		ADDED from C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:120:13-33
+	android:name
+		ADDED from C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml:119:19-60
 uses-sdk
 INJECTED from C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\Karman\AppCurrencyAndroid\app\src\main\AndroidManifest.xml
 MERGED from [io.realm:realm-android-library:3.1.4] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\e2003518214e8b0687e93f19dd80e4f0\realm-android-library-3.1.4\AndroidManifest.xml:7:5-9:41
 MERGED from [io.realm:realm-android-library:3.1.4] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\e2003518214e8b0687e93f19dd80e4f0\realm-android-library-3.1.4\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:design:27.1.1] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\285c528b8b8331a09c4c6fce76d7218d\design-27.1.1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:27.1.1] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\285c528b8b8331a09c4c6fce76d7218d\design-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\aca53b958ca432129c9cdc7c339f0841\firebase-core-11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\aca53b958ca432129c9cdc7c339f0841\firebase-core-11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\8159f244297c1fad4100322063cf05f7\constraint-layout-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\8159f244297c1fad4100322063cf05f7\constraint-layout-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.afollestad:rxkprefs:1.2.5] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ae416f978d7709a99ff574406755695e\rxkprefs-1.2.5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.afollestad:rxkprefs:1.2.5] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ae416f978d7709a99ff574406755695e\rxkprefs-1.2.5\AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.android:facebook-android-sdk:4.26.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\db5d3424be1ee2ca0aa4caf8b4820561\facebook-android-sdk-4.26.0\AndroidManifest.xml:24:5-26:41
 MERGED from [com.facebook.android:facebook-android-sdk:4.26.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\db5d3424be1ee2ca0aa4caf8b4820561\facebook-android-sdk-4.26.0\AndroidManifest.xml:24:5-26:41
 MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\c888896d125ae479ab077ab2c81b7d88\cardview-v7-27.1.1\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\c888896d125ae479ab077ab2c81b7d88\cardview-v7-27.1.1\AndroidManifest.xml:20:5-44
 MERGED from [com.jaredrummler:material-spinner:1.1.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\72260546331d793fef9fce54ff3be467\material-spinner-1.1.0\AndroidManifest.xml:21:5-23:41
 MERGED from [com.jaredrummler:material-spinner:1.1.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\72260546331d793fef9fce54ff3be467\material-spinner-1.1.0\AndroidManifest.xml:21:5-23:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\285c528b8b8331a09c4c6fce76d7218d\design-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\285c528b8b8331a09c4c6fce76d7218d\design-27.1.1\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ffb0495d039cca7b5123a01841674164\recyclerview-v7-27.1.1\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ffb0495d039cca7b5123a01841674164\recyclerview-v7-27.1.1\AndroidManifest.xml:20:5-44
 MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\f780a8b7c0a4be0a976e322e71345594\butterknife-8.8.1\AndroidManifest.xml:5:5-43
@@ -675,8 +687,6 @@ MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\Karman\.gradle\
 MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\3bf3616b018ec21f3f32a28d0b232fe9\mediarouter-v7-25.2.0\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\60766a92e10ea112e7ad716d27f62f5a\appcompat-v7-27.1.1\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\60766a92e10ea112e7ad716d27f62f5a\appcompat-v7-27.1.1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.1.1] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\065f8525334f9339038e4e2ea96beae5\transition-27.1.1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.1.1] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\065f8525334f9339038e4e2ea96beae5\transition-27.1.1\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:customtabs:25.3.1] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\6d1feb5f859dc482e0d203001a62b1e0\customtabs-25.3.1\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:customtabs:25.3.1] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\6d1feb5f859dc482e0d203001a62b1e0\customtabs-25.3.1\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\cb9a1e63de1d57cfc04ba79454ea4eac\firebase-auth-11.8.0\AndroidManifest.xml:20:5-44
@@ -695,8 +705,6 @@ MERGED from [com.google.android.gms:play-services-wallet:11.8.0] C:\Users\Karman
 MERGED from [com.google.android.gms:play-services-wallet:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\4cd4ec36260c28126445ad0e6228ba3a\play-services-wallet-11.8.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\cf452b49d7f369be5c94aee2370c1086\play-services-maps-11.8.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\cf452b49d7f369be5c94aee2370c1086\play-services-maps-11.8.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\aca53b958ca432129c9cdc7c339f0841\firebase-core-11.8.0\AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\aca53b958ca432129c9cdc7c339f0841\firebase-core-11.8.0\AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-crash:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\e732e4f83c40e7b62c2c42bdec4d2736\firebase-crash-11.8.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-crash:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\e732e4f83c40e7b62c2c42bdec4d2736\firebase-crash-11.8.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-tagmanager:11.8.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\b1dd0d90286ee032324def10c8e80b95\play-services-tagmanager-11.8.0\AndroidManifest.xml:20:5-44
@@ -793,14 +801,12 @@ MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Karman\.gra
 MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\5a4788930ed0e17ff2b831d20c715824\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\a962c266f32ccabcd9a19bb88afb7ed3\support-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\a962c266f32ccabcd9a19bb88afb7ed3\support-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\065f8525334f9339038e4e2ea96beae5\transition-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\065f8525334f9339038e4e2ea96beae5\transition-27.1.1\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\9a39467593168f990dfcbec9d6322e88\support-media-compat-27.1.1\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\9a39467593168f990dfcbec9d6322e88\support-media-compat-27.1.1\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\e5dda94b4031db1477cd90d8b10dedf9\support-compat-27.1.1\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\e5dda94b4031db1477cd90d8b10dedf9\support-compat-27.1.1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\7c9dc9615eb25743361ea497f9b955cd\constraint-layout-1.1.2\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\7c9dc9615eb25743361ea497f9b955cd\constraint-layout-1.1.2\AndroidManifest.xml:5:5-7:41
-MERGED from [com.afollestad:rxkprefs:1.2.5] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ae416f978d7709a99ff574406755695e\rxkprefs-1.2.5\AndroidManifest.xml:7:5-9:41
-MERGED from [com.afollestad:rxkprefs:1.2.5] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\ae416f978d7709a99ff574406755695e\rxkprefs-1.2.5\AndroidManifest.xml:7:5-9:41
 MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\e79a191e2fc4d02bc22ad4d2af1ad01e\rxandroid-2.0.1\AndroidManifest.xml:19:5-43
 MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\e79a191e2fc4d02bc22ad4d2af1ad01e\rxandroid-2.0.1\AndroidManifest.xml:19:5-43
 MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\Karman\.gradle\caches\transforms-2\files-2.1\3a78e7a13e5717c4d9497402f73a59a3\circleimageview-3.0.0\AndroidManifest.xml:5:5-7:41

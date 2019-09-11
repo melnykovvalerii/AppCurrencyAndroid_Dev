@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_mr_button_connecting_20_light.png.flat",
-        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-xxhdpi-v4\\ic_mr_button_connecting_20_light.png"
-    },
-    {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\color_com_facebook_send_button_text_color.xml.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\db5d3424be1ee2ca0aa4caf8b4820561\\facebook-android-sdk-4.26.0\\res\\color\\com_facebook_send_button_text_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_mr_button_connecting_20_light.png.flat",
+        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-xxhdpi-v4\\ic_mr_button_connecting_20_light.png"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_cast_ic_notification_2.png.flat",
@@ -80,12 +80,12 @@
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view_list_item.xml.flat",
-        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
-    },
-    {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_quantum_ic_skip_next_white_24.png.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\693786a5481170f7e6dbb6b4a22e511e\\play-services-cast-framework-11.8.0\\res\\drawable-hdpi-v4\\quantum_ic_skip_next_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view_list_item.xml.flat",
+        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
@@ -124,12 +124,12 @@
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\7568b0d893f18ddd126346a5f931f026\\android-maps-utils-0.5\\res\\drawable-xxhdpi-v4\\amu_bubble_shadow.9.png"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_quantum_ic_volume_off_grey600_36.png.flat",
-        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\693786a5481170f7e6dbb6b4a22e511e\\play-services-cast-framework-11.8.0\\res\\drawable-hdpi-v4\\quantum_ic_volume_off_grey600_36.png"
-    },
-    {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cast_expanded_controller_actionbar_bg_gradient_light.xml.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\693786a5481170f7e6dbb6b4a22e511e\\play-services-cast-framework-11.8.0\\res\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_quantum_ic_volume_off_grey600_36.png.flat",
+        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\693786a5481170f7e6dbb6b4a22e511e\\play-services-cast-framework-11.8.0\\res\\drawable-hdpi-v4\\quantum_ic_volume_off_grey600_36.png"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
@@ -148,6 +148,10 @@
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\693786a5481170f7e6dbb6b4a22e511e\\play-services-cast-framework-11.8.0\\res\\drawable-xhdpi-v4\\quantum_ic_play_arrow_grey600_36.png"
     },
     {
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_eth.png.flat",
+        "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\drawable\\eth.png"
+    },
+    {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_bottom.xml.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\anim\\abc_slide_in_bottom.xml"
     },
@@ -160,20 +164,20 @@
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_19_dark.png"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_mr_button_connected_13_dark.png.flat",
-        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-xxhdpi-v4\\ic_mr_button_connected_13_dark.png"
-    },
-    {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_full_open_on_phone.png.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\389ea305a2bf0cb7b0d3f5ed0d8769d7\\play-services-base-11.8.0\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_up_container.xml.flat",
-        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\layout\\abc_action_bar_up_container.xml"
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_mr_button_connected_13_dark.png.flat",
+        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-xxhdpi-v4\\ic_mr_button_connected_13_dark.png"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_up_container.xml.flat",
+        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_com_facebook_tooltip_blue_topnub.png.flat",
@@ -188,12 +192,12 @@
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\693786a5481170f7e6dbb6b4a22e511e\\play-services-cast-framework-11.8.0\\res\\drawable-xxxhdpi-v4\\quantum_ic_play_arrow_white_24.png"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
-        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
-    },
-    {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
@@ -212,16 +216,16 @@
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\693786a5481170f7e6dbb6b4a22e511e\\play-services-cast-framework-11.8.0\\res\\drawable-hdpi-v4\\quantum_ic_play_arrow_white_24.png"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_connecting_01_dark.png.flat",
-        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_01_dark.png"
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_quantum_ic_skip_previous_white_24.png.flat",
+        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\693786a5481170f7e6dbb6b4a22e511e\\play-services-cast-framework-11.8.0\\res\\drawable-xxxhdpi-v4\\quantum_ic_skip_previous_white_24.png"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_fade_out.xml.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\anim\\abc_fade_out.xml"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_quantum_ic_skip_previous_white_24.png.flat",
-        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\693786a5481170f7e6dbb6b4a22e511e\\play-services-cast-framework-11.8.0\\res\\drawable-xxxhdpi-v4\\quantum_ic_skip_previous_white_24.png"
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_connecting_01_dark.png.flat",
+        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_01_dark.png"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_wallet_test_layout.xml.flat",
@@ -244,12 +248,12 @@
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-xxhdpi-v4\\ic_mr_button_connected_08_dark.png"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cast_ic_expanded_controller_closed_caption.xml.flat",
-        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\693786a5481170f7e6dbb6b4a22e511e\\play-services-cast-framework-11.8.0\\res\\drawable\\cast_ic_expanded_controller_closed_caption.xml"
-    },
-    {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_cast_ic_notification_2.png.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\2bec48552ba048eb6b1d81cc1c20206a\\play-services-cast-11.8.0\\res\\drawable-xhdpi-v4\\cast_ic_notification_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cast_ic_expanded_controller_closed_caption.xml.flat",
+        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\693786a5481170f7e6dbb6b4a22e511e\\play-services-cast-framework-11.8.0\\res\\drawable\\cast_ic_expanded_controller_closed_caption.xml"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_cast_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
@@ -272,12 +276,12 @@
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-xxxhdpi-v4\\ic_group_expand_13.png"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_design_password_eye.xml.flat",
-        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\285c528b8b8331a09c4c6fce76d7218d\\design-27.1.1\\res\\drawable-v21\\design_password_eye.xml"
-    },
-    {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cast_ic_notification_forward30.xml.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\693786a5481170f7e6dbb6b4a22e511e\\play-services-cast-framework-11.8.0\\res\\drawable\\cast_ic_notification_forward30.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_design_password_eye.xml.flat",
+        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\285c528b8b8331a09c4c6fce76d7218d\\design-27.1.1\\res\\drawable-v21\\design_password_eye.xml"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
@@ -296,12 +300,12 @@
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\2b710ee4d3ecd1f2892279083ead39e0\\play-services-plus-11.8.0\\res\\drawable-xhdpi-v4\\ic_plusone_standard_off_client.png"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_light.xml.flat",
-        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
-    },
-    {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_design_ic_visibility_off.png.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\285c528b8b8331a09c4c6fce76d7218d\\design-27.1.1\\res\\drawable-mdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_light.xml.flat",
+        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_design_ic_visibility_off.xml.flat",
@@ -320,12 +324,12 @@
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_com_facebook_auth_dialog_cancel_background.xml.flat",
-        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\db5d3424be1ee2ca0aa4caf8b4820561\\facebook-android-sdk-4.26.0\\res\\drawable\\com_facebook_auth_dialog_cancel_background.xml"
-    },
-    {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_fb.png.flat",
         "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\mipmap-hdpi\\ic_fb.png"
+    },
+    {
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_com_facebook_auth_dialog_cancel_background.xml.flat",
+        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\db5d3424be1ee2ca0aa4caf8b4820561\\facebook-android-sdk-4.26.0\\res\\drawable\\com_facebook_auth_dialog_cancel_background.xml"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
@@ -372,28 +376,28 @@
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\4cd4ec36260c28126445ad0e6228ba3a\\play-services-wallet-11.8.0\\res\\color\\wallet_primary_text_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_quantum_ic_play_arrow_grey600_36.png.flat",
-        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\693786a5481170f7e6dbb6b4a22e511e\\play-services-cast-framework-11.8.0\\res\\drawable-xxhdpi-v4\\quantum_ic_play_arrow_grey600_36.png"
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_map_open.png.flat",
+        "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_map_open.png"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main2.xml.flat",
         "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\layout\\activity_main2.xml"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_map_open.png.flat",
-        "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_map_open.png"
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_quantum_ic_play_arrow_grey600_36.png.flat",
+        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\693786a5481170f7e6dbb6b4a22e511e\\play-services-cast-framework-11.8.0\\res\\drawable-xxhdpi-v4\\quantum_ic_play_arrow_grey600_36.png"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_design_ic_visibility.xml.flat",
-        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\285c528b8b8331a09c4c6fce76d7218d\\design-27.1.1\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_btn_to_btn.xml.flat",
+        "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\drawable\\selector_btn_to_btn.xml"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\e5dda94b4031db1477cd90d8b10dedf9\\support-compat-27.1.1\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_btn_to_btn.xml.flat",
-        "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\drawable\\selector_btn_to_btn.xml"
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_design_ic_visibility.xml.flat",
+        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\285c528b8b8331a09c4c6fce76d7218d\\design-27.1.1\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_schedule.png.flat",
@@ -440,24 +444,24 @@
         "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\drawable\\selector_dash1_to_dash2.xml"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
-        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
-    },
-    {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_connecting_15_dark.png.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_15_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_connected_18_dark.png.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_18_dark.png"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_exc_dr.png.flat",
-        "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_exc_dr.png"
-    },
-    {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ic_mr_button_disabled_light.png.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-hdpi-v4\\ic_mr_button_disabled_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_exc_dr.png.flat",
+        "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_exc_dr.png"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_eur.png.flat",
@@ -492,12 +496,12 @@
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\5f712d8509476a557270b95319a30189\\play-services-places-11.8.0\\res\\drawable-mdpi-v4\\places_ic_search.png"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_quantum_ic_refresh_white_24.png.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\693786a5481170f7e6dbb6b4a22e511e\\play-services-cast-framework-11.8.0\\res\\drawable-xxhdpi-v4\\quantum_ic_refresh_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_mr_button_connecting_03_dark.png.flat",
@@ -508,12 +512,12 @@
         "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\layout\\google_places_search_items.xml"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_messenger_button_send_round_shadow.png.flat",
-        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\db5d3424be1ee2ca0aa4caf8b4820561\\facebook-android-sdk-4.26.0\\res\\drawable-xxhdpi-v4\\messenger_button_send_round_shadow.png"
-    },
-    {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_layout.xml.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_messenger_button_send_round_shadow.png.flat",
+        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\db5d3424be1ee2ca0aa4caf8b4820561\\facebook-android-sdk-4.26.0\\res\\drawable-xxhdpi-v4\\messenger_button_send_round_shadow.png"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_quantum_ic_stop_grey600_36.png.flat",
@@ -540,12 +544,12 @@
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\anim_start_logo.xml.flat",
-        "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\anim\\start_logo.xml"
-    },
-    {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btc1.png.flat",
         "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\drawable\\btc1.png"
+    },
+    {
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\anim_start_logo.xml.flat",
+        "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\anim\\start_logo.xml"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ic_plusone_tall_off_client.png.flat",
@@ -608,16 +612,16 @@
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\db5d3424be1ee2ca0aa4caf8b4820561\\facebook-android-sdk-4.26.0\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_black_background.9.png"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mr_dialog_close_light.xml.flat",
-        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable\\mr_dialog_close_light.xml"
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_eth.png.flat",
+        "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\mipmap-mdpi\\ic_eth.png"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_mr_button_connecting_16_dark.png.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-xxhdpi-v4\\ic_mr_button_connecting_16_dark.png"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_eth.png.flat",
-        "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\mipmap-mdpi\\ic_eth.png"
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mr_dialog_close_light.xml.flat",
+        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable\\mr_dialog_close_light.xml"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_quantum_ic_pause_circle_filled_white_36.png.flat",
@@ -664,16 +668,16 @@
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\2bec48552ba048eb6b1d81cc1c20206a\\play-services-cast-11.8.0\\res\\drawable-xhdpi-v4\\cast_ic_notification_1.png"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_ic_plusone_medium_off_client.png.flat",
-        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\2b710ee4d3ecd1f2892279083ead39e0\\play-services-plus-11.8.0\\res\\drawable-mdpi-v4\\ic_plusone_medium_off_client.png"
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_toast.xml.flat",
+        "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\layout\\custom_toast.xml"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_btn_checkable.xml.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\color-v23\\abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_toast.xml.flat",
-        "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\layout\\custom_toast.xml"
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_ic_plusone_medium_off_client.png.flat",
+        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\2b710ee4d3ecd1f2892279083ead39e0\\play-services-plus-11.8.0\\res\\drawable-mdpi-v4\\ic_plusone_medium_off_client.png"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_ic_group_expand_04.png.flat",
@@ -716,12 +720,12 @@
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_users_list.xml.flat",
-        "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\layout\\activity_users_list.xml"
-    },
-    {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_quantum_ic_skip_next_white_36.png.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\693786a5481170f7e6dbb6b4a22e511e\\play-services-cast-framework-11.8.0\\res\\drawable-xxhdpi-v4\\quantum_ic_skip_next_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_users_list.xml.flat",
+        "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\layout\\activity_users_list.xml"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_mr_button_connecting_11_light.png.flat",
@@ -760,8 +764,16 @@
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\693786a5481170f7e6dbb6b4a22e511e\\play-services-cast-framework-11.8.0\\res\\drawable-hdpi-v4\\quantum_ic_volume_up_grey600_36.png"
     },
     {
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_maid.png.flat",
+        "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\drawable\\maid.png"
+    },
+    {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_quantum_ic_play_arrow_grey600_36.png.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\693786a5481170f7e6dbb6b4a22e511e\\play-services-cast-framework-11.8.0\\res\\drawable-mdpi-v4\\quantum_ic_play_arrow_grey600_36.png"
+    },
+    {
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_xem.png.flat",
+        "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\drawable\\xem.png"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
@@ -776,12 +788,12 @@
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-xxhdpi-v4\\ic_mr_button_connecting_08_light.png"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_connected_04_dark.png.flat",
-        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_04_dark.png"
-    },
-    {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_messenger_button_blue_bg_selector.xml.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\db5d3424be1ee2ca0aa4caf8b4820561\\facebook-android-sdk-4.26.0\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_connected_04_dark.png.flat",
+        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_04_dark.png"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_design_ic_visibility_off.png.flat",
@@ -828,12 +840,12 @@
         "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\layout\\item_user_recycler.xml"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
-        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\e5dda94b4031db1477cd90d8b10dedf9\\support-compat-27.1.1\\res\\layout\\notification_template_part_time.xml"
-    },
-    {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\e5dda94b4031db1477cd90d8b10dedf9\\support-compat-27.1.1\\res\\layout\\notification_template_part_time.xml"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
@@ -852,12 +864,12 @@
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-xxhdpi-v4\\ic_mr_button_connected_00_dark.png"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_connected_14_dark.png.flat",
-        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_14_dark.png"
-    },
-    {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_xmr1_to_xmr2.xml.flat",
         "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\drawable\\selector_xmr1_to_xmr2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_connected_14_dark.png.flat",
+        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_14_dark.png"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_calendar.png.flat",
@@ -880,12 +892,12 @@
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_10_light.png"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_connecting_16_light.png.flat",
-        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_16_light.png"
-    },
-    {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_connected_09_dark.png.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_09_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_connecting_16_light.png.flat",
+        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_16_light.png"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_cast_ic_stop_circle_filled_grey600.png.flat",
@@ -900,16 +912,16 @@
         "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\menu\\menu_profile.xml"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
-        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_cast_ic_stop_circle_filled_white.png.flat",
+        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\693786a5481170f7e6dbb6b4a22e511e\\play-services-cast-framework-11.8.0\\res\\drawable-xhdpi-v4\\cast_ic_stop_circle_filled_white.png"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_cast_ic_stop_circle_filled_white.png.flat",
-        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\693786a5481170f7e6dbb6b4a22e511e\\play-services-cast-framework-11.8.0\\res\\drawable-xhdpi-v4\\cast_ic_stop_circle_filled_white.png"
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_cast_ic_notification_1.png.flat",
@@ -932,12 +944,12 @@
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\693786a5481170f7e6dbb6b4a22e511e\\play-services-cast-framework-11.8.0\\res\\drawable\\cast_ic_mini_controller_pause.xml"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_cast_ic_notification_on.png.flat",
-        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\2bec48552ba048eb6b1d81cc1c20206a\\play-services-cast-11.8.0\\res\\drawable-xhdpi-v4\\cast_ic_notification_on.png"
-    },
-    {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_cast_ic_notification_on.png.flat",
+        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\2bec48552ba048eb6b1d81cc1c20206a\\play-services-cast-11.8.0\\res\\drawable-xhdpi-v4\\cast_ic_notification_on.png"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_connecting_07_light.png.flat",
@@ -1012,16 +1024,16 @@
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
-        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_messenger_button_send_round_shadow.png.flat",
+        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\db5d3424be1ee2ca0aa4caf8b4820561\\facebook-android-sdk-4.26.0\\res\\drawable-mdpi-v4\\messenger_button_send_round_shadow.png"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout-watch-v20_abc_alert_dialog_title_material.xml.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\layout-watch-v20\\abc_alert_dialog_title_material.xml"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_messenger_button_send_round_shadow.png.flat",
-        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\db5d3424be1ee2ca0aa4caf8b4820561\\facebook-android-sdk-4.26.0\\res\\drawable-mdpi-v4\\messenger_button_send_round_shadow.png"
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_longpressed_holo.9.png.flat",
@@ -1084,6 +1096,10 @@
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
     },
     {
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_xmr.png.flat",
+        "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\drawable\\xmr.png"
+    },
+    {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_cast_abc_scrubber_primary_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\693786a5481170f7e6dbb6b4a22e511e\\play-services-cast-framework-11.8.0\\res\\drawable-xxhdpi-v4\\cast_abc_scrubber_primary_mtrl_alpha.9.png"
     },
@@ -1092,12 +1108,12 @@
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-xxhdpi-v4\\ic_mr_button_connecting_22_dark.png"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_connected_13_dark.png.flat",
-        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_13_dark.png"
-    },
-    {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_connected_13_dark.png.flat",
+        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_13_dark.png"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -1116,12 +1132,12 @@
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\389ea305a2bf0cb7b0d3f5ed0d8769d7\\play-services-base-11.8.0\\res\\drawable-xhdpi-v4\\googleg_standard_color_18.png"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_quantum_ic_replay_30_white_24.png.flat",
-        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\693786a5481170f7e6dbb6b4a22e511e\\play-services-cast-framework-11.8.0\\res\\drawable-xhdpi-v4\\quantum_ic_replay_30_white_24.png"
-    },
-    {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_media_play_light.png.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-xxhdpi-v4\\ic_media_play_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_quantum_ic_replay_30_white_24.png.flat",
+        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\693786a5481170f7e6dbb6b4a22e511e\\play-services-cast-framework-11.8.0\\res\\drawable-xhdpi-v4\\quantum_ic_replay_30_white_24.png"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -1136,12 +1152,12 @@
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-xxhdpi-v4\\ic_mr_button_connecting_10_light.png"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_borderless_material.xml.flat",
-        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
-    },
-    {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_mr_button_connecting_01_light.png.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-xxhdpi-v4\\ic_mr_button_connecting_01_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_borderless_material.xml.flat",
+        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_focused_holo.9.png.flat",
@@ -1196,12 +1212,12 @@
         "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\drawable\\selector_xrp1_to_xrp2.xml"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_bottom_sheet_dialog.xml.flat",
-        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\285c528b8b8331a09c4c6fce76d7218d\\design-27.1.1\\res\\layout\\design_bottom_sheet_dialog.xml"
-    },
-    {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark.xml.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\389ea305a2bf0cb7b0d3f5ed0d8769d7\\play-services-base-11.8.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_bottom_sheet_dialog.xml.flat",
+        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\285c528b8b8331a09c4c6fce76d7218d\\design-27.1.1\\res\\layout\\design_bottom_sheet_dialog.xml"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_exc_dr.png.flat",
@@ -1216,12 +1232,12 @@
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\693786a5481170f7e6dbb6b4a22e511e\\play-services-cast-framework-11.8.0\\res\\drawable\\cast_ic_notification_disconnect.xml"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ic_vol_type_tv_light.png.flat",
-        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-hdpi-v4\\ic_vol_type_tv_light.png"
-    },
-    {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_dropdown_item_icons_2line.xml.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ic_vol_type_tv_light.png.flat",
+        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-hdpi-v4\\ic_vol_type_tv_light.png"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_connecting_09_dark.png.flat",
@@ -1252,12 +1268,12 @@
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\9a39467593168f990dfcbec9d6322e88\\support-media-compat-27.1.1\\res\\layout\\notification_media_action.xml"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20_common_google_signin_btn_text_dark_normal.xml.flat",
-        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\ca4086168698bf46df2572dc16cbe41c\\play-services-auth-11.8.0\\res\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml"
-    },
-    {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light.xml.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\389ea305a2bf0cb7b0d3f5ed0d8769d7\\play-services-base-11.8.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20_common_google_signin_btn_text_dark_normal.xml.flat",
+        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\ca4086168698bf46df2572dc16cbe41c\\play-services-auth-11.8.0\\res\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_quantum_ic_volume_up_white_36.png.flat",
@@ -1288,12 +1304,12 @@
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\693786a5481170f7e6dbb6b4a22e511e\\play-services-cast-framework-11.8.0\\res\\drawable-mdpi-v4\\cast_abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
-        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
         "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
@@ -1668,12 +1684,12 @@
         "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\drawable\\my_button_convert_check.xml"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_place_dr.png.flat",
-        "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\mipmap-hdpi\\ic_place_dr.png"
-    },
-    {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_setting.xml.flat",
         "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\layout\\fragment_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_place_dr.png.flat",
+        "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\mipmap-hdpi\\ic_place_dr.png"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_disabled_light.png.flat",
@@ -1716,16 +1732,16 @@
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-xxhdpi-v4\\ic_mr_button_connected_07_dark.png"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
-        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout-small_fragment_converter.xml.flat",
+        "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\layout-small\\fragment_converter.xml"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout-small_fragment_converter.xml.flat",
-        "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\layout-small\\fragment_converter.xml"
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_48dp.png.flat",
@@ -1992,6 +2008,10 @@
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\e5dda94b4031db1477cd90d8b10dedf9\\support-compat-27.1.1\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_xrp.png.flat",
+        "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\drawable\\xrp.png"
+    },
+    {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_show_list_commend_activity.xml.flat",
         "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\layout\\show_list_commend_activity.xml"
     },
@@ -2060,16 +2080,16 @@
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\db5d3424be1ee2ca0aa4caf8b4820561\\facebook-android-sdk-4.26.0\\res\\drawable-xhdpi-v4\\messenger_bubble_small_blue.png"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_quantum_ic_stop_grey600_36.png.flat",
-        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\693786a5481170f7e6dbb6b4a22e511e\\play-services-cast-framework-11.8.0\\res\\drawable-xhdpi-v4\\quantum_ic_stop_grey600_36.png"
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main.xml.flat",
+        "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\layout\\nav_header_main.xml"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4_ms__menu_down.png.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\72260546331d793fef9fce54ff3be467\\material-spinner-1.1.0\\res\\drawable-ldpi-v4\\ms__menu_down.png"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main.xml.flat",
-        "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_quantum_ic_stop_grey600_36.png.flat",
+        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\693786a5481170f7e6dbb6b4a22e511e\\play-services-cast-framework-11.8.0\\res\\drawable-xhdpi-v4\\quantum_ic_stop_grey600_36.png"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
@@ -2172,12 +2192,12 @@
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_connecting_16_dark.png.flat",
-        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_16_dark.png"
-    },
-    {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_places_ic_search.png.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\5f712d8509476a557270b95319a30189\\play-services-places-11.8.0\\res\\drawable-xxhdpi-v4\\places_ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_connecting_16_dark.png.flat",
+        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_16_dark.png"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_etc1_to_etc2.xml.flat",
@@ -2252,20 +2272,20 @@
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_quantum_ic_bigtop_updates_white_24.png.flat",
-        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\693786a5481170f7e6dbb6b4a22e511e\\play-services-cast-framework-11.8.0\\res\\drawable-hdpi-v4\\quantum_ic_bigtop_updates_white_24.png"
-    },
-    {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\drawable-ldrtl-xhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_tooltip.xml.flat",
-        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\layout\\abc_tooltip.xml"
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_quantum_ic_bigtop_updates_white_24.png.flat",
+        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\693786a5481170f7e6dbb6b4a22e511e\\play-services-cast-framework-11.8.0\\res\\drawable-hdpi-v4\\quantum_ic_bigtop_updates_white_24.png"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_com_facebook_button_icon_white.png.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\db5d3424be1ee2ca0aa4caf8b4820561\\facebook-android-sdk-4.26.0\\res\\drawable-xxhdpi-v4\\com_facebook_button_icon_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_tooltip.xml.flat",
+        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\layout\\abc_tooltip.xml"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_ic_audiotrack_light.png.flat",
@@ -2332,12 +2352,12 @@
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\693786a5481170f7e6dbb6b4a22e511e\\play-services-cast-framework-11.8.0\\res\\drawable-xhdpi-v4\\quantum_ic_closed_caption_grey600_36.png"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_coin_to_money.xml.flat",
-        "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\drawable\\selector_coin_to_money.xml"
-    },
-    {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_ab_back_material.xml.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_coin_to_money.xml.flat",
+        "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\drawable\\selector_coin_to_money.xml"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout-watch-v20_abc_alert_dialog_button_bar_material.xml.flat",
@@ -2464,12 +2484,12 @@
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\389ea305a2bf0cb7b0d3f5ed0d8769d7\\play-services-base-11.8.0\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_mr_button_connecting_02_dark.png.flat",
-        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-xxhdpi-v4\\ic_mr_button_connecting_02_dark.png"
-    },
-    {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_connecting_00_dark.png.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_00_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_mr_button_connecting_02_dark.png.flat",
+        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-xxhdpi-v4\\ic_mr_button_connecting_02_dark.png"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_mr_button_connected_03_dark.png.flat",
@@ -2480,12 +2500,12 @@
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\693786a5481170f7e6dbb6b4a22e511e\\play-services-cast-framework-11.8.0\\res\\drawable-xxhdpi-v4\\quantum_ic_forward_30_white_24.png"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_quantum_ic_pause_grey600_36.png.flat",
-        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\693786a5481170f7e6dbb6b4a22e511e\\play-services-cast-framework-11.8.0\\res\\drawable-xhdpi-v4\\quantum_ic_pause_grey600_36.png"
-    },
-    {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_facebook_button_send_icon_white.png.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\db5d3424be1ee2ca0aa4caf8b4820561\\facebook-android-sdk-4.26.0\\res\\drawable-mdpi-v4\\com_facebook_button_send_icon_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_quantum_ic_pause_grey600_36.png.flat",
+        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\693786a5481170f7e6dbb6b4a22e511e\\play-services-cast-framework-11.8.0\\res\\drawable-xhdpi-v4\\quantum_ic_pause_grey600_36.png"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_cast_ic_notification_2.png.flat",
@@ -2512,12 +2532,12 @@
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\color\\abc_hint_foreground_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_connecting_19_light.png.flat",
-        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_19_light.png"
-    },
-    {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light_focused.xml.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\389ea305a2bf0cb7b0d3f5ed0d8769d7\\play-services-base-11.8.0\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_connecting_19_light.png.flat",
+        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_19_light.png"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_48dp.png.flat",
@@ -2550,10 +2570,6 @@
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
-    },
-    {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_teacher.jpg.flat",
-        "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\drawable\\teacher.jpg"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cast_ic_mini_controller_skip_prev.xml.flat",
@@ -2660,16 +2676,16 @@
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_connecting_10_dark.png.flat",
-        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_10_dark.png"
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_my_button_bg_light_press.xml.flat",
+        "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\drawable\\my_button_bg_light_press.xml"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_mr_controller_volume_item.xml.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\layout\\mr_controller_volume_item.xml"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_my_button_bg_light_press.xml.flat",
-        "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\drawable\\my_button_bg_light_press.xml"
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_connecting_10_dark.png.flat",
+        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_10_dark.png"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_mr_button_connected_08_light.png.flat",
@@ -2796,16 +2812,12 @@
         "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\drawable\\background_splash.xml"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_stefan.jpg.flat",
-        "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\drawable\\stefan.jpg"
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_cast_ic_notification_0.png.flat",
+        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\2bec48552ba048eb6b1d81cc1c20206a\\play-services-cast-11.8.0\\res\\drawable-hdpi-v4\\cast_ic_notification_0.png"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_mr_button_connecting_00_dark.png.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-xxhdpi-v4\\ic_mr_button_connecting_00_dark.png"
-    },
-    {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_cast_ic_notification_0.png.flat",
-        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\2bec48552ba048eb6b1d81cc1c20206a\\play-services-cast-11.8.0\\res\\drawable-hdpi-v4\\cast_ic_notification_0.png"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_quantum_ic_replay_white_24.png.flat",
@@ -2844,12 +2856,12 @@
         "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\mipmap-mdpi\\ic_fb.png"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_quantum_ic_stop_white_24.png.flat",
-        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\693786a5481170f7e6dbb6b4a22e511e\\play-services-cast-framework-11.8.0\\res\\drawable-xxhdpi-v4\\quantum_ic_stop_white_24.png"
-    },
-    {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_quantum_ic_volume_off_white_36.png.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\693786a5481170f7e6dbb6b4a22e511e\\play-services-cast-framework-11.8.0\\res\\drawable-xhdpi-v4\\quantum_ic_volume_off_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_quantum_ic_stop_white_24.png.flat",
+        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\693786a5481170f7e6dbb6b4a22e511e\\play-services-cast-framework-11.8.0\\res\\drawable-xxhdpi-v4\\quantum_ic_stop_white_24.png"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
@@ -2868,12 +2880,12 @@
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-xxhdpi-v4\\ic_mr_button_connecting_09_light.png"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_connecting_03_dark.png.flat",
-        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_03_dark.png"
-    },
-    {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_mr_button_connected_21_dark.png.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-xxhdpi-v4\\ic_mr_button_connected_21_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_connecting_03_dark.png.flat",
+        "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_03_dark.png"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
@@ -3214,10 +3226,6 @@
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple_overlay_action_mode.xml.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
-    },
-    {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ruth.jpg.flat",
-        "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\drawable\\ruth.jpg"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_mr_button_disconnected_light.png.flat",
@@ -3602,10 +3610,6 @@
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_foreground.png.flat",
         "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_foreground.png"
-    },
-    {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_turtle.jpg.flat",
-        "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\drawable\\turtle.jpg"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_messenger_button_blue_bg_round.xml.flat",
@@ -4030,6 +4034,10 @@
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_quantum_ic_skip_previous_white_36.png.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\693786a5481170f7e6dbb6b4a22e511e\\play-services-cast-framework-11.8.0\\res\\drawable-hdpi-v4\\quantum_ic_skip_previous_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_aur.png.flat",
+        "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\drawable\\aur.png"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_find.png.flat",
@@ -4968,6 +4976,10 @@
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_err_my_button_convert_check.xml.flat",
+        "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\drawable\\err_my_button_convert_check.xml"
+    },
+    {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ic_audiotrack_light.png.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-hdpi-v4\\ic_audiotrack_light.png"
     },
@@ -5074,10 +5086,6 @@
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_header.xml.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\285c528b8b8331a09c4c6fce76d7218d\\design-27.1.1\\res\\layout\\design_navigation_item_header.xml"
-    },
-    {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mechanic.jpg.flat",
-        "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\drawable\\mechanic.jpg"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
@@ -5300,6 +5308,10 @@
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_etc.png.flat",
+        "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\drawable\\etc.png"
+    },
+    {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_singlechoice_material.xml.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
@@ -5374,10 +5386,6 @@
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\e5dda94b4031db1477cd90d8b10dedf9\\support-compat-27.1.1\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_yeats.jpg.flat",
-        "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\drawable\\yeats.jpg"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_icon_google.xml.flat",
@@ -5604,10 +5612,6 @@
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\693786a5481170f7e6dbb6b4a22e511e\\play-services-cast-framework-11.8.0\\res\\drawable-hdpi-v4\\quantum_ic_stop_grey600_48.png"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gran.jpg.flat",
-        "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\drawable\\gran.jpg"
-    },
-    {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_money_dr.png.flat",
         "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\mipmap-xhdpi\\ic_money_dr.png"
     },
@@ -5698,6 +5702,10 @@
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_quantum_ic_art_track_grey600_48.png.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\693786a5481170f7e6dbb6b4a22e511e\\play-services-cast-framework-11.8.0\\res\\drawable-xxhdpi-v4\\quantum_ic_art_track_grey600_48.png"
+    },
+    {
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ltc.png.flat",
+        "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\drawable\\ltc.png"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -5804,6 +5812,10 @@
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-xxhdpi-v4\\ic_mr_button_connecting_22_light.png"
     },
     {
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btc.png.flat",
+        "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\drawable\\btc.png"
+    },
+    {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_vol_type_speaker_light.png.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-xxhdpi-v4\\ic_vol_type_speaker_light.png"
     },
@@ -5826,10 +5838,6 @@
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_vol_type_speaker_group_dark.png.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-xxhdpi-v4\\ic_vol_type_speaker_group_dark.png"
-    },
-    {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_drawer.xml.flat",
-        "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\layout\\activity_main_drawer.xml"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_mr_button_connecting_04_light.png.flat",
@@ -5936,6 +5944,10 @@
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-hdpi-v4\\ic_mr_button_disconnected_dark.png"
     },
     {
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_drawer.xml.flat",
+        "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\layout\\drawer.xml"
+    },
+    {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_mr_button_disabled_dark.png.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-xxhdpi-v4\\ic_mr_button_disabled_dark.png"
     },
@@ -6020,10 +6032,6 @@
         "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\drawable\\selector_eth1_to_eth2.xml"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_john.jpg.flat",
-        "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\drawable\\john.jpg"
-    },
-    {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_ltc.png.flat",
         "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_ltc.png"
     },
@@ -6056,10 +6064,6 @@
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\60766a92e10ea112e7ad716d27f62f5a\\appcompat-v7-27.1.1\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
-        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_walter.jpg.flat",
-        "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\drawable\\walter.jpg"
-    },
-    {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_ic_group_collapse_10.png.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-xxxhdpi-v4\\ic_group_collapse_10.png"
     },
@@ -6078,6 +6082,10 @@
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_connecting_14_light.png.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\3bf3616b018ec21f3f32a28d0b232fe9\\mediarouter-v7-25.2.0\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_14_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_course.xml.flat",
+        "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\layout\\content_course.xml"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_my_back_ed_text.xml.flat",
@@ -6294,6 +6302,10 @@
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_quantum_ic_skip_previous_white_24.png.flat",
         "source": "C:\\Users\\Karman\\.gradle\\caches\\transforms-2\\files-2.1\\693786a5481170f7e6dbb6b4a22e511e\\play-services-cast-framework-11.8.0\\res\\drawable-mdpi-v4\\quantum_ic_skip_previous_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dash.png.flat",
+        "source": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\src\\main\\res\\drawable\\dash.png"
     },
     {
         "merged": "C:\\Users\\Karman\\AppCurrencyAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_gbp.png.flat",

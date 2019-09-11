@@ -51,10 +51,6 @@ public class DialogActivity extends ListActivity {
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                 Intent returnIntent = new Intent();
                 switch (numberCheck) {
-                    case 3:
-                        Currency c = currencyList.get(position);
-                        returnIntent.putExtra(RESULT_CURRENCY_CODE, c.getName());
-                        break;
                     case 4:
                     case 5:
                     case 6:

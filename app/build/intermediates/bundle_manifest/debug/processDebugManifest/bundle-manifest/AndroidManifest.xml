@@ -133,8 +133,11 @@
             android:theme="@style/AppTheme.FullScreen" />
         <activity android:name="com.allerates.appforyou.activities.ShowListCommendActivity" />
         <activity android:name="com.allerates.appforyou.activities.ConfirmMailActivity" />
-        <activity android:name="com.allerates.appforyou.activities.PasswordRecognitionActivity" />
-        <activity android:name="com.allerates.appforyou.activities.ActivitySetPassword" />
+        <activity android:name="com.allerates.appforyou.activities.PasswordRecoveryActivity" />
+        <activity android:name="com.allerates.appforyou.activities.UpdatePasswordActivity" />
+        <activity
+            android:name="com.allerates.appforyou.activities.CourseActivity"
+            android:title="Курс" />
         <activity android:name="com.facebook.CustomTabMainActivity" />
         <!--
          The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically

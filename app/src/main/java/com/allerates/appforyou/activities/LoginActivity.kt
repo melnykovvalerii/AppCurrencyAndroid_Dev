@@ -241,7 +241,7 @@ class LoginActivity : AppCompatActivity() {
 
     }
 
-    fun toRecoveryPasswordClick(v: View) = startActivity(PasswordRecognitionActivity::class.java)
+    fun toRecoveryPasswordClick(v: View) = startActivity(PasswordRecoveryActivity::class.java)
 
     fun toSignUpClick(v: View) = startActivity(SignUpActivity::class.java)
 
@@ -260,7 +260,7 @@ class LoginActivity : AppCompatActivity() {
                     val result = response.body()!!
                     if (isValidJson(result.toString(), UserInfoResult::class.java)) {
 
-                        startActivity()
+                        //startActivity()
                     }
                 }
             }

@@ -28,3 +28,13 @@ class UserInfo(
     var activateUser: String,
     var surName: String
 )
+
+data class SendRecoveryMailResult(
+        var status: String,
+        var message: String
+)
+
+data class BasicResult(
+        var status: String,
+        var message: String
+)

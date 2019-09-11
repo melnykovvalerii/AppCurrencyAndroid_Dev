@@ -172,7 +172,7 @@ public class SearchPlaceOnMapFragment  extends Fragment implements
         public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
 
             final PlaceAutocompleteAdapter.PlaceAutocomplete item = mAdapter.getItem(position);
-            final String placeId = String.valueOf(item.placeId);
+            final String placeId = String.valueOf(item.getPlaceId());
 
             PendingResult<PlaceBuffer> placeResult = Places.GeoDataApi
                     .getPlaceById(mGoogleApiClient, placeId);

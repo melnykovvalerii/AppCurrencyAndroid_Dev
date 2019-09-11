@@ -1121,6 +1121,7 @@ drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable amu_bubble_mask
 drawable amu_bubble_shadow
+drawable aur
 drawable aur1
 drawable aur2
 drawable avd_hide_password
@@ -1129,6 +1130,7 @@ drawable back_arrow_black
 drawable back_def_point
 drawable back_dial_drawable
 drawable background_splash
+drawable btc
 drawable btc1
 drawable btc2
 drawable button_icon_fb
@@ -1240,6 +1242,7 @@ drawable common_google_signin_btn_text_light_focused
 drawable common_google_signin_btn_text_light_normal
 drawable common_google_signin_btn_text_light_normal_background
 drawable custom_radio_button
+drawable dash
 drawable dash1
 drawable dash2
 drawable design_bottom_navigation_item_background
@@ -1249,13 +1252,15 @@ drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
 drawable ed_bg
+drawable err_my_button_convert_check
+drawable etc
 drawable etc1
 drawable etc2
+drawable eth
 drawable eth1
 drawable eth2
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
-drawable gran
 drawable ic_ab_overflow_compat
 drawable ic_add
 drawable ic_audiotrack_dark
@@ -1409,14 +1414,14 @@ drawable ic_vol_type_speaker_light
 drawable ic_vol_type_tv_dark
 drawable ic_vol_type_tv_light
 drawable img
-drawable john
 drawable layout_bg
 drawable location
+drawable ltc
 drawable ltc1
 drawable ltc2
+drawable maid
 drawable maid1
 drawable maid2
-drawable mechanic
 drawable messenger_bubble_large_blue
 drawable messenger_bubble_large_white
 drawable messenger_bubble_small_blue
@@ -1520,7 +1525,6 @@ drawable quantum_ic_volume_off_grey600_36
 drawable quantum_ic_volume_off_white_36
 drawable quantum_ic_volume_up_grey600_36
 drawable quantum_ic_volume_up_white_36
-drawable ruth
 drawable selector
 drawable selector_aur1_to_aur2
 drawable selector_btn_to_btn
@@ -1538,21 +1542,19 @@ drawable selector_xmr1_to_xmr2
 drawable selector_xrp1_to_xrp2
 drawable side_nav_bar
 drawable start_screen_logo
-drawable stefan
-drawable teacher
 drawable toast_background
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
-drawable turtle
 drawable user_photo_light
-drawable walter
+drawable xem
 drawable xem1
 drawable xem2
+drawable xmr
 drawable xmr1
 drawable xmr2
+drawable xrp
 drawable xrp1
 drawable xrp2
-drawable yeats
 id ALT
 id CTRL
 id FUNCTION
@@ -1705,6 +1707,7 @@ id content
 id contentPanel
 id controllers
 id coordinator
+id course_list
 id course_value
 id crash_reporting_present
 id create_btn
@@ -1792,6 +1795,7 @@ id icon_uri
 id icon_view
 id ifRoom
 id image
+id imageView
 id imageView32
 id img_back
 id img_user
@@ -1829,7 +1833,6 @@ id live_stream_seek_bar
 id lnr_comment
 id lnr_top
 id loading_indicator
-id logOutBtn
 id log_in_tv
 id logo_only
 id map
@@ -2018,7 +2021,6 @@ id textView222
 id textView223
 id textView224
 id textView2242
-id textView26
 id textView3
 id textView31
 id textView6
@@ -2045,6 +2047,7 @@ id to_day_week
 id to_txt
 id toast_layout_root
 id toolbar
+id toolbar2
 id toolbar_high_level_activity
 id top
 id topPanel
@@ -2147,7 +2150,6 @@ layout activity_dialog_time_work
 layout activity_login
 layout activity_main
 layout activity_main2
-layout activity_main_drawer
 layout activity_maps
 layout activity_password_recognition
 layout activity_register
@@ -2178,6 +2180,7 @@ layout com_facebook_login_fragment
 layout com_facebook_smart_device_dialog_fragment
 layout com_facebook_tooltip_bubble
 layout contact_us
+layout content_course
 layout content_main
 layout content_main3
 layout content_main_list_comment
@@ -2200,6 +2203,7 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_password_icon
 layout dialog_layout
+layout drawer
 layout fragment_converter
 layout fragment_setting
 layout google_places_search_items
@@ -2440,6 +2444,7 @@ string def_string
 string def_string_for_address
 string def_string_one_space
 string def_web_client_id
+string default_avatar
 string default_web_client_id
 string email_address2
 string enter_email
@@ -3085,6 +3090,7 @@ style com_facebook_button_send
 style com_facebook_button_share
 style com_facebook_loginview_default_style
 style com_facebook_loginview_silver_style
+style setting_form_editText
 style tooltip_bubble_text
 styleable ActionBar background backgroundSplit backgroundStacked contentInsetEnd contentInsetEndWithActions contentInsetLeft contentInsetRight contentInsetStart contentInsetStartWithNavigation customNavigationLayout displayOptions divider elevation height hideOnContentScroll homeAsUpIndicator homeLayout icon indeterminateProgressStyle itemPadding logo navigationMode popupTheme progressBarPadding progressBarStyle subtitle subtitleTextStyle title titleTextStyle
 styleable ActionBarLayout android_layout_gravity
