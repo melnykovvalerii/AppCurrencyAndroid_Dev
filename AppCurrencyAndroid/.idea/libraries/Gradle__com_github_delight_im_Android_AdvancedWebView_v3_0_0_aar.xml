@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.delight-im:Android-AdvancedWebView:v3.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6825c8352d450e5020cd6ac5bb0548a3/Android-AdvancedWebView-v3.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6825c8352d450e5020cd6ac5bb0548a3/Android-AdvancedWebView-v3.0.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.delight-im/Android-AdvancedWebView/v3.0.0/21af2aa74369bade70c80c0f9dce6c405c4641ad/Android-AdvancedWebView-v3.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.delight-im/Android-AdvancedWebView/v3.0.0/343ec44ea5ff2e31af686a70dcba5799bcbd276d/Android-AdvancedWebView-v3.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

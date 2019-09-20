@@ -1,4 +1,0 @@
-#Tue May 21 16:37:19 MSK 2019
-base.0=/Users/valeriimelnikov/Downloads/appforyou/app/build/intermediates/transforms/dexMerger/debug/9
-path.0=classes.dex
-renamed.0=classes.dex

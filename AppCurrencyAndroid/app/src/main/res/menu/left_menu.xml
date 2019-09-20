@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:actionViewClass="android.widget.TextView"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/drawer_item_courses"
+            android:icon="@mipmap/ic_money_dr"
+            app:actionViewClass="android.widget.TextView"
+            android:title="@string/txt_course"/>
+        <item
+            android:id="@+id/drawer_item_converter"
+            android:icon="@mipmap/ic_exc_dr"
+            app:actionViewClass="android.widget.TextView"
+            android:title="@string/convertString"/>
+        <item
+            android:id="@+id/drawer_item_map"
+            android:icon="@mipmap/ic_place_dr"
+            android:title="@string/map_st" />
+        <item
+            android:id="@+id/drawer_item_schedule"
+            android:icon="@mipmap/ic_schedule"
+            android:title="@string/schedule_st" />
+
+    </group>
+
+    <item android:title="@string/txt_communicate"
+        android:id="@+id/nav_title"
+        >
+        <menu>
+            <item
+                android:id="@+id/drawer_item_share"
+                android:icon="@mipmap/ic_share_dr"
+                android:title="@string/txt_share" />
+            <item
+                android:id="@+id/drawer_item_send"
+                android:icon="@mipmap/ic_send_dr"
+                android:title="@string/txt_send" />
+            <item
+                android:id="@+id/drawer_item_setting"
+                android:icon="@android:drawable/ic_menu_manage"
+                android:title="@string/setting" />
+        </menu>
+    </item>
+</menu>

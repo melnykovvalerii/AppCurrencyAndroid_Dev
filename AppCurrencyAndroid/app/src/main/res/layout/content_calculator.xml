@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    tools:context=".activities.CalculatorActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/back_image"
+        android:orientation="horizontal"
+        android:weightSum="3"
+        android:layout_marginBottom="100dp">
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="88dp"
+            android:layout_weight="1"
+            android:id="@+id/coin_to_coin"
+            android:background="@drawable/coin1" />
+
+        <ImageView
+            android:onClick="setMoneyToMoneyModeClick"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:id="@+id/money_to_money"
+            android:background="@drawable/money2" />
+
+        <ImageView
+            android:onClick="setCoinToMoneyClick"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:id="@+id/coin_to_money"
+            android:background="@drawable/coinmoney2" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginRight="25dp"
+        android:layout_marginLeft="25dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="From"
+            android:layout_marginBottom="5dp"
+            android:textColor="@color/black"
+            android:textSize="18sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/from_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/back_dial_drawable"
+                android:onClick="setFromCurrencyClick"
+                android:text="UAH▼"
+                android:textSize="18sp" />
+
+            <EditText
+                android:id="@+id/from_data"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="30dp"
+                android:background="@drawable/back_dial_drawable"
+                android:ems="10"
+                android:inputType="number" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="60dp"
+            android:layout_marginBottom="5dp"
+            android:text="To"
+            android:textColor="@color/cast_expanded_controller_background_color"
+            android:textSize="18sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/to_button"
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/back_dial_drawable"
+                android:onClick="setToCurrencyClick"
+                android:text="MADS▼"
+                android:textSize="18sp" />
+
+            <Button
+                android:id="@+id/convert"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:background="@drawable/my_button_bg_light_press"
+                android:onClick="startConvertClick"
+                android:text="Конвертировать"
+                android:textColor="@color/cardview_light_background"
+                android:textSize="12sp" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/result_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginRight="25dp"
+        android:background="@drawable/back_dial_drawable"
+        android:gravity="center"
+        android:text="0.00"
+        android:textColor="@color/back_button" />
+
+</LinearLayout>
+

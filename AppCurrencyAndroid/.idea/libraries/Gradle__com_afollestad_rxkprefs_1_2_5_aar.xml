@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.afollestad:rxkprefs:1.2.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ae416f978d7709a99ff574406755695e/rxkprefs-1.2.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ae416f978d7709a99ff574406755695e/rxkprefs-1.2.5/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.afollestad/rxkprefs/1.2.5/4869c5a2c3ec230e4abb179c1e8283688f357961/rxkprefs-1.2.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.afollestad/rxkprefs/1.2.5/56245239a70eb4d56a2310aaa681dd45fb896636/rxkprefs-1.2.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
